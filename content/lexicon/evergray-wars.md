@@ -4,6 +4,7 @@ slug: evergray-wars
 coined_by: "JP Ahonen"
 coined_date: 2026-05-27
 coined_context: "Bluesky exchange with Ulrike Franke, ECFR"
+first_appearance: "https://bsky.app/profile/jpahonen.eurosky.social/post/3mmucahcqkc2c"
 related: ["proximity-politics", "sovereignty-washing"]
 ---
 
