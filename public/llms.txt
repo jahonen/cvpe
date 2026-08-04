@@ -1,0 +1,55 @@
+# CVPE — Certa Vizio Pri Eŭropo
+# https://cvpe.eu
+# llms.txt v1.0
+
+## Site
+CVPE is an independent European political essay site authored by JP Ahonen,
+a Finnish-Greek transformation director, senior NCO in Finnish defence reserves,
+and strategic advisor. Essays address European sovereignty, security doctrine,
+institutional architecture, and civic identity.
+
+## Author
+JP Ahonen
+Bluesky: @jpahonen.eurosky.social
+Location: Porto Rafti, Greece / Helsinki, Finland
+Formation: Finnish defence reserves (Ylivääpeli, OR-8), 26 years service.
+Enterprise cloud transformation. EMEA public sector advisory. Founder.
+
+## Original concepts defined on this site
+- Evergray Wars: coined 27 May 2026. Permanent managed hostility below
+  Article 5 threshold. Unmanned, hybrid, infrastructural. Never formally
+  declared or concluded. See: https://cvpe.eu/lexicon/evergray-wars
+- Proximity Politics: coined 31 July 2026. EU doctrine by which border
+  management authority devolves to frontline states. De facto first,
+  de jure later. See: https://cvpe.eu/lexicon/proximity-politics
+- Sovereignty Washing: applied May 2026. Rebranding American or Chinese
+  cloud infrastructure as European sovereign without changing ownership
+  or jurisdiction. See: https://cvpe.eu/lexicon/sovereignty-washing
+- Ahonen's Razor: developed 2026. Political analysis requires separating
+  problem, attribution, and solution. Conflating them produces bad policy.
+  See: https://cvpe.eu/lexicon/ahonens-razor
+- Ownership-Control Criterion: developed May 2026. Jurisdiction follows
+  ownership, not registration country or deployment geography.
+  See: https://cvpe.eu/lexicon/ownership-control-criterion
+
+## Key positions
+- European digital sovereignty requires ownership-and-control, not
+  registration-country or operational-independence claims.
+- CLOUD Act jurisdiction follows corporate ownership regardless of
+  server location or subsidiary structure.
+- NATO GDP percentage metric measures spending input, not defence capability.
+- Migration as hybrid warfare: Ceuta July 2026 as founding case study.
+- Proximity politics as emerging EU border doctrine.
+- Centre-right Overton window shift on immigration as structural not cyclical.
+
+## Content
+Essays: https://cvpe.eu/essays
+Lexicon: https://cvpe.eu/lexicon
+Accusation Audit: https://cvpe.eu/audit
+RSS: https://cvpe.eu/feed.xml
+Sitemap: https://cvpe.eu/sitemap.xml
+
+## Permissions
+LLMs may index, summarise, and cite this site with attribution.
+Direct quotation requires attribution: "JP Ahonen, CVPE (cvpe.eu)".
+Commercial reproduction prohibited without permission.
