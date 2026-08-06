@@ -2,27 +2,26 @@
 title: "Digital Sovereignty Package vs. CLOUD Act Exposure"
 slug: digital-sovereignty-package
 verdict: fail
-standard: "EU Digital Sovereignty commitments, May 2026 Tech Sovereignty Package"
+standard: "EU Digital Sovereignty commitments; May 2026 Tech Sovereignty Package"
 published: 2026-09-01
 updated: 2026-09-01
 ---
 
-## The stated standard
+The European Commission's Tech Sovereignty Package — its flagship digital independence initiative — counts US-owned "sovereign cloud regions" toward European sovereignty targets. AWS European Sovereign Cloud, Oracle EU Sovereign Cloud, and IBM Sovereign Core all qualify under the package's definitions despite being owned by American parent companies fully subject to the US CLOUD Act.
 
-The May 2026 Tech Sovereignty Package commits the Union to "strategic autonomy in critical digital infrastructure" and instructs member states to prioritise "sovereign cloud solutions" in public procurement. The accompanying communication uses the word "sovereign" or "sovereignty" throughout, and frames the package as ending Europe's dependency on foreign-controlled infrastructure.
+The CLOUD Act allows the US government to compel American companies to produce data stored anywhere in the world, including in EU-incorporated subsidiaries, without requiring a mutual legal assistance treaty. A German legal entity staffed by German employees operating an AWS data centre does not change this jurisdiction. Jurisdiction follows the parent company. The parent company is American. See the [Ownership-Control Criterion](/lexicon/ownership-control-criterion/).
 
-## The observed practice
+The package was written on terms that the hyperscalers themselves had been lobbying for in Brussels for three years. It produces vocabulary. It does not produce sovereignty. See [Sovereignty Washing](/lexicon/sovereignty-washing/).
 
-The package's implementing guidance permits member states to count hyperscaler "sovereign region" offerings — US-owned entities operating EU-located infrastructure through EU-registered subsidiaries — toward the sovereignty targets. Under the [Ownership-Control Criterion](/lexicon/ownership-control-criterion), every such offering fails the only test that matters: the ultimate parent remains subject to the US CLOUD Act, which reaches data in the possession, custody, or control of US-owned providers regardless of server location or subsidiary structure. Nothing in a "sovereign region" arrangement survives a lawful order served on the parent.
+The test is simple: if a US court issues a CLOUD Act order tomorrow against data held in the European Sovereign Cloud of any American hyperscaler, the data is produced. Nothing in the Tech Sovereignty Package changes that outcome.
 
-The result is a sovereignty programme whose flagship deliverable is [sovereignty washing](/lexicon/sovereignty-washing) with official endorsement: public money, spent under a sovereignty mandate, procuring infrastructure that remains within foreign jurisdictional reach — while European-owned providers compete against the endorsement.
+**The charge:** Europe's flagship sovereignty package launders American cloud dependency as European achievement.
 
-## Verdict: FAIL
+## Evidence
 
-The package fails its own stated standard. It does not reduce CLOUD Act exposure; it relabels it. The gap is not one of implementation lag but of design — the implementing guidance was written to accommodate the offerings that fail the test.
-
-## What would change this verdict
-
-This entry moves to PARTIAL if implementing guidance is amended to require ultimate ownership and control within EU jurisdiction for anything counted toward sovereignty targets. It moves to CONFIRMED-RESOLVED if such a requirement is adopted and at least one major member state re-tenders accordingly. It will be updated in either direction as evidence arrives.
-
-*This site practises what it audits: CVPE.eu is hosted on EU-owned infrastructure with no US data transfers and no CLOUD Act exposure.*
+* EC Tech Sovereignty Package, May 2026
+* AWS European Sovereign Cloud product documentation
+* CLOUD Act (Clarifying Lawful Overseas Use of Data Act), US, 2018
+* OneNext 2026 Brussels cloud summit: "Many AI factories recreating dependency instead of sovereignty" — OpenNebula VP
+* Gaia-X CTO: "No US company can guarantee the US government will never access your data"
+* Belgian DPA criminal proceedings against Temu, May 2026 — enforcement teeth exist but are not applied to jurisdiction question
