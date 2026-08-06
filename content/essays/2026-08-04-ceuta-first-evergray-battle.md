@@ -32,7 +32,7 @@ Morocco did not invade Spain. It opened a gate, directed traffic through it, and
 
 ## The Legislative Trail
 
-What distinguishes Ceuta from previous episodes of Morocco using migration as leverage — the 2021 surge during the Polisario dispute, the recurring pressure at Melilla — is the American dimension.
+What distinguishes Ceuta from previous episodes of Morocco using migration as leverage — [the 2021 surge during the Polisario dispute](/essays/people-as-ammunition-ceuta-weapons-development/), the recurring pressure at Melilla — is the American dimension.
 
 Two weeks before the Ceuta crossing, the United States House of Representatives passed the National Security, Department of State, and Related Programs Act. Embedded in the committee report: language formally describing Ceuta and Melilla as "Spanish-administered cities located in Moroccan territory," expressing support for Secretary of State Rubio mediating their "future status." Forty million dollars in military financing was simultaneously allocated to Morocco.
 

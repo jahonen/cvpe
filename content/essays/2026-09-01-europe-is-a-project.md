@@ -32,7 +32,7 @@ A project, by contrast, can fail. That is its virtue. If Europe is a project, th
 
 ## The evergray context
 
-This matters now because the environment has changed. Europe no longer lives in peace punctuated by war. It lives in the [evergray](/lexicon/evergray-wars): permanent, managed hostility below the Article 5 threshold. Cut cables. Jammed navigation. Manufactured migration surges. Unattributable drones over airfields. Nothing declared, nothing concluded, everything deniable.
+This matters now because the environment has changed. Europe no longer lives in peace punctuated by war. It lives in the [evergray](/lexicon/evergray-wars): permanent, managed hostility below the Article 5 threshold. Cut cables. Jammed navigation. [Manufactured migration surges](/essays/people-as-ammunition-ceuta-weapons-development/). Unattributable drones over airfields. Nothing declared, nothing concluded, everything deniable.
 
 Heritage is useless here. You cannot deter a hybrid campaign with a founding myth. The evergray rewards exactly the capacities that heritage nationalism neglects: infrastructure ownership, industrial depth, institutional speed, and the boring sovereignty of knowing who actually controls your systems when a subpoena arrives in a foreign jurisdiction.
 
