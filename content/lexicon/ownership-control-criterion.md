@@ -21,4 +21,4 @@ Developed May 2026 in cloud sovereignty analysis surrounding the Tech Sovereignt
 
 ## Implications
 
-Procurement language is the battlefield. A tender that specifies "data residency in the EU" invites washing; a tender that specifies "ultimate ownership and control within EU jurisdiction" excludes it in four words. The [Digital Sovereignty Package audit](/audit/digital-sovereignty-package) applies the criterion to the EU's own flagship programme.
+Procurement language is the battlefield. A tender that specifies "data residency in the EU" invites washing; a tender that specifies "ultimate ownership and control within EU jurisdiction" excludes it in four words. The [Digital Sovereignty Package audit](/audit/digital-sovereignty-package) applies the criterion to the EU's own flagship programme. It applies to identity as forcefully as to compute — see [The Wallet Is the Point](/essays/age-verification-eudi-wallet-sovereignty/).

@@ -13,7 +13,7 @@ Web 4.0 is the Commission's rebranding of the metaverse concept, adopted in July
 
 The package that is supposed to position Europe as a serious technological sovereignty actor includes a strategy built around a concept that was publicly embarrassing when Zuckerberg announced it. The document was written by people optimising for comprehensiveness and political coverage rather than strategic clarity.
 
-The [ownership-and-control criterion](/lexicon/ownership-control-criterion/) — the actual mechanism required to differentiate European from American cloud infrastructure — does not appear in the package. Web 4.0 does.
+The [ownership-and-control criterion](/lexicon/ownership-control-criterion/) — the actual mechanism required to differentiate European from American cloud infrastructure — does not appear in the package. Web 4.0 does. The contrast with the EUDI Wallet, which delivers ownership without the vocabulary, is examined in [The Wallet Is the Point](/essays/age-verification-eudi-wallet-sovereignty/).
 
 **The charge:** Europe's sovereignty strategy document is a vocabulary exercise. The tell is Web 4.0.
 

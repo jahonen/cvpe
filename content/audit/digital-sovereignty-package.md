@@ -13,7 +13,7 @@ The CLOUD Act allows the US government to compel American companies to produce d
 
 The package was written on terms that the hyperscalers themselves had been lobbying for in Brussels for three years. It produces vocabulary. It does not produce sovereignty. See [Sovereignty Washing](/lexicon/sovereignty-washing/).
 
-The test is simple: if a US court issues a CLOUD Act order tomorrow against data held in the European Sovereign Cloud of any American hyperscaler, the data is produced. Nothing in the Tech Sovereignty Package changes that outcome.
+The test is simple: if a US court issues a CLOUD Act order tomorrow against data held in the European Sovereign Cloud of any American hyperscaler, the data is produced. Nothing in the Tech Sovereignty Package changes that outcome. Europe has demonstrated elsewhere that it can build infrastructure that passes this test — see [The Wallet Is the Point](/essays/age-verification-eudi-wallet-sovereignty/).
 
 **The charge:** Europe's flagship sovereignty package launders American cloud dependency as European achievement.
 
