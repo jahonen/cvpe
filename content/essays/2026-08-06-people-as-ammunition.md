@@ -5,7 +5,7 @@ date: 2026-08-06
 modified: 2026-08-06
 domain: Security
 excerpt: "The operation at Ceuta on July 31st 2026 was not an improvisation. It was the production deployment of a weapon developed, tested, and refined across more than fifty documented operations since 1951 — a weapon Europe helped build by outsourcing its own borders."
-bluesky_thread: ""
+bluesky_thread: "at://did:plc:lazitworajfevap666me4pvn/app.bsky.feed.post/3msgl5uaccs2b"
 prediction: false
 prediction_status: ""
 reading_time: 15

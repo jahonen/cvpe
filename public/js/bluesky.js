@@ -67,6 +67,12 @@ async function loadBlueskyThread(threadRef, containerId) {
     const data = await res.json();
     const replies = data.thread?.replies || [];
 
+    // Prefer the author's handle over a DID in the public-facing permalink
+    const rootHandle = data.thread?.post?.author?.handle;
+    if (rootHandle) {
+      ref.webUrl = `https://bsky.app/profile/${rootHandle}/post/${ref.uri.split('/').pop()}`;
+    }
+
     if (replies.length === 0) {
       container.innerHTML = `
         <p class="bsky-empty">
