@@ -16,7 +16,7 @@ The Ceuta operation of July 31st 2026 revealed a documented sequence:
 * July 31, 2026: Between 50,000 and 60,000 people cross into Ceuta with Moroccan police direction. At least 72 die.
 * July 31, 2026: US State Department blames Spain, offers to assist "other European allies considering similar options."
 
-This sequence constitutes the first documented case of American legislative preparation, followed by a third-party hybrid operation, followed by American diplomatic cover — all targeting the same EU member state government. Whether the coordination was explicit or structural is a question of evidence not yet fully resolved. See the full analysis: [Ceuta: The First Evergray Battle](/essays/ceuta-first-evergray-battle/).
+This sequence constitutes the [first documented case of American legislative preparation](/essays/people-as-ammunition-ceuta-weapons-development/), followed by a third-party hybrid operation, followed by American diplomatic cover — all targeting the same EU member state government. Whether the coordination was explicit or structural is a question of evidence not yet fully resolved. See the full analysis: [Ceuta: The First Evergray Battle](/essays/ceuta-first-evergray-battle/).
 
 **Falsifiable prediction (August 4, 2026):** The Ceuta event will be followed by at least one further incident in which documented American diplomatic or legislative action precedes or enables pressure on an EU member state government through hybrid means. The pattern, once established, will repeat. The actors — Morocco as instrument, Washington as enabler — will use the Ceuta template again against Sánchez or against another centre-left European government Washington has identified as a target.
 

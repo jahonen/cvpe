@@ -9,7 +9,7 @@ prediction_logged: "31 July 2026"
 resolution_expected: "January 2028"
 ---
 
-De facto: border management authority is already devolving to frontline states. Spain managed Ceuta without Brussels. Poland managed Belarus pressure nationally. Greece manages Aegean crossings through methods Frontex has documented in Serious Incident Reports. Finland has enacted emergency border legislation that effectively suspends asylum processing at the eastern border under pressure.
+De facto: border management authority is already devolving to frontline states. [Spain managed Ceuta without Brussels.](/essays/ceuta-first-evergray-battle/) Poland managed Belarus pressure nationally. Greece manages Aegean crossings through methods Frontex has documented in Serious Incident Reports. Finland has enacted emergency border legislation that effectively suspends asylum processing at the eastern border under pressure.
 
 The Geneva Convention on Refugees and the Dublin Regulation nominally govern all of this. In practice, interpretation is becoming regional. Brussels provides cover, funding, and Frontex logistics. Frontline states determine what happens at the water's edge.
 

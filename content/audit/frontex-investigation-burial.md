@@ -9,7 +9,7 @@ prediction_logged: "1 August 2026"
 resolution_expected: "December 2026"
 ---
 
-Frontex Serious Incident Reports released between December 2025 and February 2026 documented masked men used in violent pushbacks at the Greek Evros border alongside Greek officers — beatings, theft, sexual violence, forced returns. Frontex was reviewing 12 cases of potential human rights violations. A case before the Court of Justice of the EU was seeking an order to halt Frontex's Greek operations entirely.
+Frontex Serious Incident Reports released between December 2025 and February 2026 [documented masked men used in violent pushbacks](/audit/poland-spain-double-standard/) at the Greek Evros border alongside Greek officers — beatings, theft, sexual violence, forced returns. Frontex was reviewing 12 cases of potential human rights violations. A case before the Court of Justice of the EU was seeking an order to halt Frontex's Greek operations entirely.
 
 The Commission simultaneously offered Frontex deployment to Spain in response to the Ceuta crisis — the same agency under CJEU proceedings for covering up rights violations in Greece, now being positioned as the institutional instrument of European border management.
 

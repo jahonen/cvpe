@@ -9,9 +9,9 @@ prediction_logged: "August 2026"
 resolution_expected: "2027-2028"
 ---
 
-The NATO GDP percentage target — currently 2%, moving toward 3% — measures financial input into defence-classified budget categories. It does not measure capability, readiness, deployability, or deterrence value.
+The NATO GDP percentage target — currently 2%, moving toward 3% — measures financial input into defence-classified budget categories. [It does not measure capability, readiness, deployability, or deterrence value.](/lexicon/evergray-wars/)
 
-Finland's conscript model demonstrates the gap. Finland fields a credible wartime force of hundreds of thousands at a fraction of the market-salary cost required by a professional army. The GDP contribution looks modest. The capability is disproportionate. The metric misrepresents Finnish defence value to the alliance.
+[Finland's conscript model demonstrates the gap.](/audit/finland-hormuz-commitment/) Finland fields a credible wartime force of hundreds of thousands at a fraction of the market-salary cost required by a professional army. The GDP contribution looks modest. The capability is disproportionate. The metric misrepresents Finnish defence value to the alliance.
 
 The dual-use technology problem compounds the distortion. Containerised sensor networks that monitor maritime traffic in peacetime and convert to coastal defence capability in wartime cost money once and deliver value twice — but only the defence allocation counts toward GDP percentage. The civilian productivity generated during peacetime is invisible to NATO accounting.
 

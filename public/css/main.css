@@ -434,6 +434,18 @@ section + section .section-label,
 }
 .related-terms a { color: var(--EU-blue-text); }
 
+/* Portrait — always grayscale (asset is pre-converted; filter is belt and braces) */
+.portrait {
+  float: right;
+  width: 176px;
+  height: 176px;
+  max-width: 40%;
+  object-fit: cover;
+  border-radius: var(--radius);
+  filter: grayscale(1);
+  margin: var(--s1) 0 var(--s4) var(--s5);
+}
+
 /* Quotes page */
 .quote-item {
   margin: 0 0 var(--s8);

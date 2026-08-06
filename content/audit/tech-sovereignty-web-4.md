@@ -7,7 +7,7 @@ published: 2026-09-01
 updated: 2026-09-01
 ---
 
-The European Commission's flagship Tech Sovereignty Package — published in the same week as the Temu DSA fine, the Brussels cloud summit, and the Hegseth meeting dismantling the NATO Force Model — includes a Web 4.0 strategy as a core pillar.
+[The European Commission's flagship Tech Sovereignty Package](/audit/digital-sovereignty-package/) — published in the same week as the Temu DSA fine, the Brussels cloud summit, and the Hegseth meeting dismantling the NATO Force Model — includes a Web 4.0 strategy as a core pillar.
 
 Web 4.0 is the Commission's rebranding of the metaverse concept, adopted in July 2023 after Meta had already spent $40 billion demonstrating that the metaverse was not a viable market. The Commission's definition: "fourth generation of the World Wide Web" featuring "advanced artificial and ambient intelligence, internet of things, trusted blockchain transactions, virtual worlds and XR capabilities."
 

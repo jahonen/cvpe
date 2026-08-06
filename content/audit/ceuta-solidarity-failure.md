@@ -15,7 +15,7 @@ Von der Leyen issued a statement calling the images "unacceptable" and tasked tw
 
 Italy suspended Schengen with Spain — a move legal analysts described as incompatible with current treaty architecture. Twenty-two member state leaders signed a letter condemning Spain's migration management. An emergency ministerial meeting produced no decisions.
 
-Spain had already resolved the crisis before the ministerial meeting convened.
+Spain had already resolved the crisis before the ministerial meeting convened — [proximity politics](/lexicon/proximity-politics/) in operation.
 
 The verdict is partial rather than fail because von der Leyen subsequently sent a letter framing Ceuta as requiring common European response and solidarity — after Spain's management of the crisis made that framing politically safe. The solidarity arrived when it was no longer needed.
 

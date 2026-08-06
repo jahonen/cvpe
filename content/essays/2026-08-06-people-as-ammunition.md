@@ -1,5 +1,5 @@
 ---
-title: "People as Ammunition: The Decades-Long Development of a Weapon"
+title: "Deniable by Design: The Decades-Long Process of Turning Migration into a Weapon"
 slug: people-as-ammunition-ceuta-weapons-development
 date: 2026-08-06
 modified: 2026-08-06

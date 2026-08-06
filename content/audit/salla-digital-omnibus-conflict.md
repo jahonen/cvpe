@@ -15,7 +15,7 @@ She failed to declare her Meta role as a potential conflict of interest in her d
 
 In April 2025 she sold undeclared stocks in a defence company following press reporting — stocks she had not declared in her declaration of private interests, held while participating in discussions about major increases in defence subsidies to that sector.
 
-Her public statements on digital sovereignty — European cloud first, stop American market dominance — are structurally incompatible with the deregulation agenda of the Digital Omnibus she is leading. The package weakens the enforcement mechanisms that sovereignty requires while deploying sovereignty rhetoric to justify simplification.
+Her public statements on digital sovereignty — European cloud first, stop American market dominance — are structurally incompatible with the deregulation agenda of the Digital Omnibus she is leading. The package weakens the enforcement mechanisms that sovereignty requires while [deploying sovereignty rhetoric to justify simplification](/lexicon/sovereignty-washing/).
 
 The [ownership-and-control criterion](/lexicon/ownership-control-criterion/) — which would exclude AWS European Sovereign Cloud and Meta's own EU subsidiary from qualifying as European — does not appear anywhere in the Digital Omnibus framework.
 
