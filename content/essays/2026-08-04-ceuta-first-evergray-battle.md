@@ -5,7 +5,7 @@ date: 2026-08-04
 modified: 2026-08-04
 domain: Security
 excerpt: "Between 50,000 and 60,000 people crossed from Morocco into a Spanish exclave in Africa on July 31st 2026. Almost all returned within 48 hours. This was not a migration crisis. It was the opening engagement of something new."
-bluesky_thread: ""
+bluesky_thread: "at://did:plc:lazitworajfevap666me4pvn/app.bsky.feed.post/3msaiifn23s2d"
 prediction: false
 prediction_status: ""
 reading_time: 9

@@ -6,11 +6,42 @@
 
 const BSKY_API = 'https://public.api.bsky.app/xrpc';
 
-async function loadBlueskyThread(threadUri, containerId) {
+/**
+ * Accepts either an at:// URI or a bsky.app post URL
+ * (https://bsky.app/profile/<handle-or-did>/post/<rkey>)
+ * and returns { uri, webUrl } — or null if unusable.
+ */
+async function resolveThreadRef(input) {
+  if (!input) return null;
+  if (input.startsWith('at://')) {
+    const parts = input.replace('at://', '').split('/');
+    return {
+      uri: input,
+      webUrl: `https://bsky.app/profile/${parts[0]}/post/${parts[2]}`
+    };
+  }
+  const m = input.match(/bsky\.app\/profile\/([^/]+)\/post\/([a-z0-9.]+)/i);
+  if (!m) return null;
+  let actor = m[1];
+  const rkey = m[2];
+  if (!actor.startsWith('did:')) {
+    const res = await fetch(
+      `${BSKY_API}/com.atproto.identity.resolveHandle?handle=${encodeURIComponent(actor)}`
+    );
+    if (!res.ok) return null;
+    actor = (await res.json()).did;
+  }
+  return {
+    uri: `at://${actor}/app.bsky.feed.post/${rkey}`,
+    webUrl: input.startsWith('http') ? input : `https://${input}`
+  };
+}
+
+async function loadBlueskyThread(threadRef, containerId) {
   const container = document.getElementById(containerId);
   if (!container) return;
 
-  if (!threadUri) {
+  if (!threadRef) {
     container.innerHTML = `
       <p class="bsky-empty">
         Discussion thread opens on Bluesky when this essay is posted.
@@ -25,7 +56,9 @@ async function loadBlueskyThread(threadUri, containerId) {
   container.innerHTML = '<p class="bsky-loading">Loading discussion...</p>';
 
   try {
-    const encoded = encodeURIComponent(threadUri);
+    const ref = await resolveThreadRef(threadRef);
+    if (!ref) throw new Error('Unresolvable thread reference');
+    const encoded = encodeURIComponent(ref.uri);
     const res = await fetch(
       `${BSKY_API}/app.bsky.feed.getPostThread?uri=${encoded}&depth=50`
     );
@@ -38,7 +71,7 @@ async function loadBlueskyThread(threadUri, containerId) {
       container.innerHTML = `
         <p class="bsky-empty">
           No replies yet.
-          <a href="https://bsky.app/profile/jpahonen.eurosky.social"
+          <a href="${ref.webUrl}"
              target="_blank" rel="noopener">
             Join the conversation on Bluesky →
           </a>
@@ -73,7 +106,7 @@ async function loadBlueskyThread(threadUri, containerId) {
     container.innerHTML = `
       <div class="bsky-thread">${html}</div>
       <a class="bsky-cta"
-         href="https://bsky.app/profile/jpahonen.eurosky.social"
+         href="${ref.webUrl}"
          target="_blank" rel="noopener">
         Reply on Bluesky →
       </a>`;
