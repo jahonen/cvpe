@@ -14,6 +14,17 @@
   --EU-blue-text: #1d3557; /* blue for text/links; lightened in dark mode */
   --quiet:      #6b6560;
   --white:      #ffffff;
+  /* Evergray status strip keeps an EU-blue ground in both themes,
+     so its text needs tokens that do NOT invert. Both ≥4.5:1 on that ground. */
+  --strip-ink:   #ffffff;  /* 12.4:1 on #1d3557 */
+  --strip-label: #c8963c;  /* 4.6:1  on #1d3557 */
+  /* Status severity scale. Each clears 4.5:1 as text on BOTH strip grounds
+     (#1d3557 light / #2a4a75 dark), so these do not invert with the theme.
+     Kinetic sits outside the evergray scale: it is a declared, hot war. */
+  --status-kinetic:    #ffb3a3;  /* 7.2 / 5.2 */
+  --status-active:     #f0c579;  /* 7.6 / 5.6 */
+  --status-elevated:   #f5e0a0;  /* 9.5 / 6.9 */
+  --status-monitoring: #b8d0e0;  /* 7.7 / 5.6 */
   --field-border: #8f8981; /* form control boundaries, ≥3:1 vs paper */
 
   /* Verdict colours — Accusation Audit (all ≥4.5:1 as text on paper) */
@@ -58,12 +69,13 @@
     --verdict-partial:  #c8963c;
     --verdict-ongoing:  #5aa5d6;
     --verdict-confirmed:#4cc27e;
+    /* Strip ground lightens to #2a4a75 in dark, so the ink lightens with it */
+    --strip-ink:   #e8e4dc;  /* 7.1:1 on #2a4a75 */
+    --strip-label: #f0c579;  /* 5.6:1 on #2a4a75 */
   }
-  .status-strip-label { color: #e0b563; }
   .badge--confirmed { background: #1e3320; color: #7fc97f; }
   .badge--pending   { background: #33290f; color: #d9b36a; }
   .badge--denied    { background: #331414; color: #d98a8a; }
-  .status-strip { color: #e8e4dc; }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -242,20 +254,19 @@ section + section .section-label,
 
 .status-strip {
   background: var(--EU-blue);
-  color: var(--white);
+  /* Dedicated tokens, not --white/--signal: those invert in dark mode and the
+     strip keeps its blue ground in both, so it needs its own ink. */
+  color: var(--strip-ink);
   border-radius: var(--radius);
   padding: var(--s4) var(--s5);
   margin-bottom: var(--s8);
-}
-@media (prefers-color-scheme: light) {
-  .status-strip { color: #ffffff; }
 }
 .status-strip-label {
   font-family: var(--mono);
   font-size: 0.65rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: var(--signal);
+  color: var(--strip-label);
   margin-bottom: var(--s3);
 }
 .status-row {
@@ -268,6 +279,25 @@ section + section .section-label,
   font-size: 0.8rem;
 }
 .status-row:last-child { border-bottom: none; }
+.status-note {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  line-height: 1.6;
+  letter-spacing: 0.04em;
+  color: var(--strip-ink);
+  opacity: 0.75;
+  margin: var(--s3) 0 0;
+  padding-top: var(--s3);
+  border-top: 1px solid rgba(255,255,255,0.14);
+}
+/* Body link colour is EU-blue — identical to this strip's ground. Links inside
+   the strip must take the strip's own ink instead, or they vanish. */
+.status-note a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.status-note a:hover { color: var(--status-elevated); }
 .status-row-left {
   display: flex;
   align-items: center;
@@ -278,16 +308,27 @@ section + section .section-label,
   font-size: 0.65rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  opacity: 0.85;
+  white-space: nowrap;
+  /* No opacity dimming here: the severity colour has to hold its contrast. */
 }
+/* Severity is carried by colour AND by the level word itself, so colour is
+   never the sole means of conveying the state. */
+.status-level--kinetic    { color: var(--status-kinetic); }
+.status-level--active     { color: var(--status-active); }
+.status-level--elevated   { color: var(--status-elevated); }
+.status-level--monitoring { color: var(--status-monitoring); }
+
 .status-dot {
   width: 7px; height: 7px;
   border-radius: 50%;
   flex-shrink: 0;
 }
-.status-dot--active    { background: var(--signal); animation: pulse 2s infinite; }
-.status-dot--elevated  { background: #e8c068; }
-.status-dot--monitoring{ background: #6b8fa3; }
+/* Kinetic is a square, not a dot: a declared war is a different category from
+   the evergray fronts, and the shape says so without relying on colour. */
+.status-dot--kinetic   { background: var(--status-kinetic); border-radius: 0; animation: pulse 2s infinite; }
+.status-dot--active    { background: var(--status-active); animation: pulse 2s infinite; }
+.status-dot--elevated  { background: var(--status-elevated); }
+.status-dot--monitoring{ background: var(--status-monitoring); }
 @keyframes pulse {
   0%, 100% { opacity: 1; }
   50%       { opacity: 0.4; }

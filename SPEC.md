@@ -83,7 +83,7 @@ Scale classes: `.headline-xl` clamp(2rem,6vw,2.8rem) · `.headline-lg` clamp(1.4
 
 ### 2.3 Component Library
 
-`.section-label` (mono eyebrow with bottom border) · `.tag` (amber domain label) · `.badge` + `--confirmed/--pending/--denied` (prediction badges) · `.status-strip` (EU-blue Evergray Status Strip with pulsing `.status-dot--active`, `--elevated`, `--monitoring`) · `.masthead` (sticky, `.wordmark` CVPE<span>.</span>eu) · cards, audit entries with vertical verdict labels, prose styles, Bluesky components, subscribe form, search results, footer.
+`.section-label` (mono eyebrow with bottom border) · `.tag` (amber domain label) · `.badge` + `--confirmed/--pending/--denied` (prediction badges) · `.status-strip` (EU-blue Evergray Status Strip; severity tokens `--status-kinetic/-active/-elevated/-monitoring` colour both the dot and the `.status-level` word, and clear 4.5:1 on the strip ground in both themes. `kinetic` renders as a square, not a dot: declared war is not evergray and is flagged as a distinct category via `.status-note`. The strip keeps a blue ground in both themes, so it uses `--strip-ink`/`--strip-label` rather than `--white`/`--signal`, which invert) · `.masthead` (sticky, `.wordmark` CVPE<span>.</span>eu) · cards, audit entries with vertical verdict labels, prose styles, Bluesky components, subscribe form, search results, footer.
 
 ---
 
