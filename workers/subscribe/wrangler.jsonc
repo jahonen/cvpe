@@ -1,0 +1,10 @@
+{
+  // Cloudflare Worker config — deployed via Workers Builds (GitHub integration).
+  // "name" must match the Worker created in the dashboard.
+  "name": "cvpe-subscribe",
+  "main": "worker.js",
+  "compatibility_date": "2026-08-01",
+  "routes": [
+    { "pattern": "api.cvpe.eu", "custom_domain": true }
+  ]
+}
