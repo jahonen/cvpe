@@ -5,7 +5,7 @@ date: 2026-08-07
 modified: 2026-08-07
 domain: Sovereignty
 excerpt: "Europe is quietly building the one piece of digital infrastructure that could make every other sovereignty argument credible: a way to prove a fact about yourself to a platform without that platform ever learning who you are. Age verification is the pretext. The wallet is the point."
-bluesky_thread: ""
+bluesky_thread: "at://did:plc:lazitworajfevap666me4pvn/app.bsky.feed.post/3mshvnmsu5k2b"
 prediction: false
 prediction_status: ""
 reading_time: 12
