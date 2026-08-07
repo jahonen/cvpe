@@ -54,7 +54,8 @@ cvpe.eu/                          — repository root
     │   └── subscribe.js
     ├── pagefind/                 — generated search index
     └── assets/
-        └── og-default.png        — 1200x630 Open Graph default image
+        ├── og-default.png        — 1200x630 Open Graph fallback (non-essay pages)
+        └── og/[slug].png         — 1200x630 per-essay Open Graph card
 ```
 
 ---
@@ -89,7 +90,8 @@ Scale classes: `.headline-xl` clamp(2rem,6vw,2.8rem) · `.headline-lg` clamp(1.4
 
 ## 3. HTML Templates
 
-Every page: full meta set — title `{{PAGE_TITLE}} — CVPE`, description, author JP Ahonen, canonical, Open Graph (og:type website/article, og-default.png image, site_name "CVPE — Certa Vizio Pri Eŭropo", locale en_GB), Twitter summary_large_image, article:* meta on essays/lexicon/audit, JSON-LD (see §4), RSS alternate link, fonts, `/css/main.css`, favicon.
+Every page: full meta set — title `{{PAGE_TITLE}} — CVPE`, description, author JP Ahonen, canonical, Open Graph (og:type website/article, per-essay `/assets/og/[slug].png` card with
+width/height/alt — `og-default.png` elsewhere, site_name "CVPE — Certa Vizio Pri Eŭropo", locale en_GB), Twitter summary_large_image, article:* meta on essays/lexicon/audit, JSON-LD (see §4), RSS alternate link, fonts, `/css/main.css`, favicon.
 
 Shared components: skip link (`<a href="#main" class="skip-link">`) first in body; masthead with primary nav (Essays/Lexicon/Audit/About); footer with tagline `"A Certain Vision of Europe."`, full nav, sovereignty meta and predictions-logged meta.
 
@@ -113,7 +115,10 @@ Allow all; explicit Allow for GPTBot, ClaudeBot, PerplexityBot, Googlebot; Sitem
 
 ### 4.4 sitemap.xml
 
-Regenerated whenever content changes. Home priority 1.0 weekly; essays 0.9 monthly with `news:news` block; lexicon terms 0.8 yearly.
+Regenerated whenever content changes. Home priority 1.0 weekly; essays 0.9 monthly;
+audit entries 0.7 monthly; lexicon terms 0.8 yearly. No `news:news` markup: that
+extension is only for sites enrolled in Google News and only covers articles from
+the last 2 days, so it earns nothing here and risks the sitemap being rejected.
 
 ### 4.5 RSS feed.xml
 
@@ -198,6 +203,7 @@ Core Web Vitals green on mobile: LCP < 2.5s, CLS < 0.1, INP < 200ms. Fonts preco
 - [x] `/public/js/search.js`
 - [x] `/public/pagefind/` — generated and committed
 - [x] `/public/assets/og-default.png` — 1200x630
+- [x] `/public/assets/og/[slug].png` — per-essay OG cards
 - [x] `/public/assets/favicon.svg`
 - [ ] GitHub → DanubeData integration confirmed and tested
 - [ ] cvpe.eu DNS pointed to DanubeData

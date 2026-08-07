@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cvpe.eu/</loc>
     <changefreq>weekly</changefreq>
@@ -16,56 +15,24 @@
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>CVPE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07</news:publication_date>
-      <news:title>The Wallet Is the Point: Age Verification as Europe's Sovereignty Test Case</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://cvpe.eu/essays/people-as-ammunition-ceuta-weapons-development/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>CVPE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06</news:publication_date>
-      <news:title>Deniable by Design: The Decades-Long Process of Turning Migration into a Weapon</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://cvpe.eu/essays/ceuta-first-evergray-battle/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>CVPE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04</news:publication_date>
-      <news:title>Ceuta: The First Evergray Battle</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://cvpe.eu/essays/europe-is-a-project/</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>CVPE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01</news:publication_date>
-      <news:title>Europe Is a Project, Not a Heritage Claim</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://cvpe.eu/lexicon/</loc>
