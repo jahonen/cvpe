@@ -3,8 +3,8 @@ title: "Salla / Digital Omnibus Conflict of Interest"
 slug: salla-digital-omnibus-conflict
 verdict: fail
 standard: "European Parliament Code of Conduct; EU institutional integrity standards"
-published: 2026-09-01
-updated: 2026-09-01
+published: 2026-08-01
+updated: 2026-08-01
 ---
 
 From May 2020 to April 2023, Aura Salla served as Public Policy Director and Head of EU Affairs at Meta, leading the company's entire Brussels lobbying team and extensively lobbying the European Parliament on EU privacy rules — including the GDPR framework she was paid to weaken.

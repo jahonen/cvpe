@@ -202,7 +202,7 @@ Core Web Vitals green on mobile: LCP < 2.5s, CLS < 0.1, INP < 200ms. Fonts preco
 - [ ] GitHub → DanubeData integration confirmed and tested
 - [ ] cvpe.eu DNS pointed to DanubeData
 - [ ] SendGrid account configured, API key secured
-- [x] First essay drafted and ready for 1 September 2026
+- [x] First essay drafted and ready for 1 August 2026
 - [x] Five lexicon terms complete
 - [x] First audit entry complete
 - [ ] Bluesky handle confirmed: @jpahonen.eurosky.social

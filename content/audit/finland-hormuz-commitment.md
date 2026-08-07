@@ -3,8 +3,8 @@ title: "Finland / Hormuz Commitment"
 slug: finland-hormuz-commitment
 verdict: fail
 standard: "Finnish national interest; strategic coherence in defence commitments"
-published: 2026-09-01
-updated: 2026-09-01
+published: 2026-08-01
+updated: 2026-08-01
 ---
 
 In March 2026, Finland joined a coalition statement committing to the Hormuz security operation — a mission to protect freedom of navigation in the Strait of Hormuz during the US-Iran conflict (Operation Epic Fury, begun February 28, 2026).

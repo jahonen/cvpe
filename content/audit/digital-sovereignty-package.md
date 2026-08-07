@@ -3,8 +3,8 @@ title: "Digital Sovereignty Package vs. CLOUD Act Exposure"
 slug: digital-sovereignty-package
 verdict: fail
 standard: "EU Digital Sovereignty commitments; May 2026 Tech Sovereignty Package"
-published: 2026-09-01
-updated: 2026-09-01
+published: 2026-08-01
+updated: 2026-08-01
 ---
 
 The European Commission's Tech Sovereignty Package — its flagship digital independence initiative — counts US-owned "sovereign cloud regions" toward European sovereignty targets. AWS European Sovereign Cloud, Oracle EU Sovereign Cloud, and IBM Sovereign Core all qualify under the package's definitions despite being owned by American parent companies fully subject to the US CLOUD Act.

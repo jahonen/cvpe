@@ -1,8 +1,8 @@
 ---
 title: "Europe Is a Project, Not a Heritage Claim"
 slug: europe-is-a-project
-date: 2026-09-01
-modified: 2026-09-01
+date: 2026-08-01
+modified: 2026-08-01
 domain: Identity
 excerpt: "The founding essay. Why Europe must be understood as unfinished work — and why heritage nationalism is a resignation letter dressed as pride."
 bluesky_thread: ""

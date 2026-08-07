@@ -3,8 +3,8 @@ title: "EU Tech Sovereignty Package — Web 4.0"
 slug: tech-sovereignty-web-4
 verdict: fail
 standard: "Strategic coherence; EU digital policy credibility"
-published: 2026-09-01
-updated: 2026-09-01
+published: 2026-08-01
+updated: 2026-08-01
 ---
 
 [The European Commission's flagship Tech Sovereignty Package](/audit/digital-sovereignty-package/) — published in the same week as the Temu DSA fine, the Brussels cloud summit, and the Hegseth meeting dismantling the NATO Force Model — includes a Web 4.0 strategy as a core pillar.
