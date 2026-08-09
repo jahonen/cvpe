@@ -5,7 +5,7 @@ date: 2026-08-09
 modified: 2026-08-09
 domain: Security
 excerpt: "Iran has struck Amazon's data centres four times since March. Ukraine is bombing a Russian e-commerce warehouse chain almost nightly. A Finnish law professor now says Iran striking Amazon could well be lawful. Nobody has connected these threads to what they actually are: the same expansion of the Overton window on legitimate targets, running simultaneously in two theatres, unremarked."
-bluesky_thread: ""
+bluesky_thread: "at://did:plc:lazitworajfevap666me4pvn/app.bsky.feed.post/3msnuadbfxk2l"
 prediction: false
 prediction_status: ""
 reading_time: 14
