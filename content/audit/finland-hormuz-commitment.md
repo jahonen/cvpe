@@ -7,7 +7,7 @@ published: 2026-08-01
 updated: 2026-08-01
 ---
 
-In March 2026, Finland joined a coalition statement committing to the Hormuz security operation — a mission to protect freedom of navigation in the Strait of Hormuz during the US-Iran conflict (Operation Epic Fury, begun February 28, 2026).
+In March 2026, Finland joined a coalition statement committing to the Hormuz security operation — a mission to protect freedom of navigation in the Strait of Hormuz during the US-Iran conflict ([Operation Epic Fury](/essays/platform-economy-expanding-military-targets/), begun February 28, 2026).
 
 The commitment was made under pressure from [a Trump administration NATO ultimatum](/audit/nato-gdp-metric/) demanding specific offers from alliance members. The President and Ministerial Committee on Foreign and Security Policy discussed the matter on April 17th and April 29th. Prime Minister Orpo's coalition owns the decision.
 
