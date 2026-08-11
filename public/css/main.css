@@ -685,3 +685,31 @@ section + section .section-label,
   letter-spacing: 0.25em;
   color: var(--signal-ink);
 }
+
+/* --------------------------------------------------------------------------
+   Figures — screenshots and documentary images inside essays
+   -------------------------------------------------------------------------- */
+
+.prose figure {
+  margin: var(--s8) 0;
+}
+.prose figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--mist);
+  border-radius: var(--radius);
+}
+/* Tall portrait screenshots would otherwise dominate the 680px column */
+.prose figure.figure--portrait img {
+  max-width: 420px;
+  margin-inline: auto;
+}
+.prose figcaption {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  line-height: 1.65;
+  color: var(--quiet);
+  margin-top: var(--s3);
+}
+.prose figcaption a { color: var(--EU-blue-text); }

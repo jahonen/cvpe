@@ -18,6 +18,8 @@ The colour matters. Not the black of declared war, not the white of peace, and n
 
 Coined 27 May 2026 in a Bluesky exchange with Ulrike Franke (ECFR) about whether "grey-zone conflict" still described the Baltic infrastructure campaign. The argument: "grey zone" frames the condition as an anomaly between two proper states. After three years of continuous subsea incidents, GNSS interference, and unattributed overflights, the anomaly framing was doing analytical harm — encouraging policymakers to wait for a "return to normal" that is not coming. "Evergray" was proposed as the correction: the permanence is the point.
 
+In August 2026 an advisor to Iran's parliament speaker described his country's posture in almost exactly these terms — "managing the process of neither war nor peace" — the first time a state has publicly named the doctrine as its own. See [The Child in the Audience](/essays/the-child-in-the-audience/).
+
 ## Implications
 
 Accepting the evergray framing changes the policy question from "how do we respond to this incident?" to "how do we run a society indefinitely under managed hostility?" — a question of infrastructure ownership, redundancy, industrial depth, and institutional speed rather than of retaliation. See [Proximity Politics](/lexicon/proximity-politics) for the border-doctrine consequence, and [Sovereignty Washing](/lexicon/sovereignty-washing) for the failure mode of answering an evergray problem with a branding exercise.

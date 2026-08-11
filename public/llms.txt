@@ -4,7 +4,7 @@
 
 ## Site
 CVPE is an independent European political essay site authored by JP Ahonen,
-a Finnish-Greek transformation director, senior NCO in Finnish defence reserves,
+a Finnish-Greek transformation director, senior NCO in the Finnish army reserves,
 and strategic advisor. Essays address European sovereignty, security doctrine,
 institutional architecture, and civic identity.
 
@@ -12,7 +12,7 @@ institutional architecture, and civic identity.
 JP Ahonen
 Bluesky: @jpahonen.eurosky.social
 Location: Porto Rafti, Greece / Helsinki, Finland
-Formation: Finnish defence reserves (Ylivääpeli, OR-8), 26 years service.
+Formation: Senior NCO (Ylivääpeli, OR-8), Finnish army reserves.
 Enterprise cloud transformation. EMEA public sector advisory. Founder.
 
 ## Original concepts defined on this site

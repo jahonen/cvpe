@@ -17,6 +17,8 @@ Finland committed assets to a theatre where: Finnish national interests are not 
 
 Gulf states — Qatar, Saudi Arabia, UAE — demonstrated in May 2026 that they have more direct influence over American escalation decisions than any European member of the coalition. Finland is a subcontractor in an operation whose strategic direction is determined by Riyadh and Doha.
 
+In August 2026 Iran ruled out negotiation with the current administration altogether, committing to wait out its term — a counterparty assessment that bears directly on the coalition Finland joined. See [The Child in the Audience](/essays/the-child-in-the-audience/).
+
 **The charge:** Finland committed military assets to someone else's war under alliance pressure, [without a national interest analysis](/lexicon/ahonens-razor/), without an exit doctrine, and without apparent understanding of the operational context.
 
 ## Evidence
