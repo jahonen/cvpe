@@ -5,7 +5,7 @@ date: 2026-08-11
 modified: 2026-08-11
 domain: Sovereignty
 excerpt: "Iran has said in public what European chancelleries are only permitted to think in private: the current American administration cannot be negotiated with. Not will not — cannot. The commitment device no longer functions, and Europe cannot wait for 2029 to notice."
-bluesky_thread: ""
+bluesky_thread: "at://did:plc:lazitworajfevap666me4pvn/app.bsky.feed.post/3msrzuwvp7c2l"
 prediction: false
 prediction_status: ""
 reading_time: 6
