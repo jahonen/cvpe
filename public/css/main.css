@@ -713,3 +713,68 @@ section + section .section-label,
   margin-top: var(--s3);
 }
 .prose figcaption a { color: var(--EU-blue-text); }
+
+/* --------------------------------------------------------------------------
+   A Certain Vision — star pages
+   -------------------------------------------------------------------------- */
+
+.star-meta {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  color: var(--signal-ink);
+  margin: var(--s2) 0 var(--s4);
+}
+
+.star-nav ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  counter-reset: none;
+}
+.star-nav li {
+  border-bottom: 1px solid var(--mist);
+}
+.star-nav li:last-child { border-bottom: none; }
+.star-nav a {
+  display: flex;
+  gap: var(--s3);
+  align-items: baseline;
+  padding: var(--s3) 0;
+  text-decoration: none;
+  font-size: 0.95rem;
+  color: var(--ink);
+}
+.star-nav a:hover { color: var(--signal-ink); }
+.star-nav a[aria-current="page"] { color: var(--quiet); }
+.star-nav-num {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: var(--signal-ink);
+  flex-shrink: 0;
+  min-width: 1rem;
+}
+
+.vision-cta {
+  display: flex;
+  gap: var(--s3);
+  flex-wrap: wrap;
+  margin: var(--s8) 0 0;
+}
+.vision-cta-link {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: var(--s3) var(--s5);
+  border: 1px solid var(--EU-blue-text);
+  border-radius: var(--radius);
+  color: var(--EU-blue-text);
+}
+.vision-cta-link:hover {
+  background: var(--EU-blue);
+  border-color: var(--EU-blue);
+  color: #fff;
+}

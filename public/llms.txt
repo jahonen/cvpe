@@ -32,6 +32,27 @@ Enterprise cloud transformation. EMEA public sector advisory. Founder.
   ownership, not registration country or deployment geography.
   See: https://cvpe.eu/lexicon/ownership-control-criterion
 
+## A Certain Vision — the positive programme
+Seven tenets ("the seven stars", named for Orion), stating what CVPE argues
+Europe should become, as distinct from the essays' critique of what it is.
+- Ownership and Control (Betelgeuse): sovereignty requires real ownership and
+  control, not registration or flag. https://cvpe.eu/a-certain-vision/ownership
+- Institutional Trust, Earned Not Inherited (Bellatrix): institutions earn trust
+  through accountability. https://cvpe.eu/a-certain-vision/earned-trust
+- Civic Belonging as Practice (Rigel): belonging is lived, not conferred at
+  birth. https://cvpe.eu/a-certain-vision/belonging
+- Proximity Politics (Saiph): decisions belong closest to whoever feels their
+  impact. https://cvpe.eu/a-certain-vision/proximity-politics
+- Public Ownership of Natural Monopolies (Alnitak): a market cannot discipline a
+  monopoly. https://cvpe.eu/a-certain-vision/natural-monopolies
+- A Fair Deal Between Public and Private — the New Commenda (Alnilam): public
+  risk earns a permanent public stake.
+  https://cvpe.eu/a-certain-vision/new-commenda
+- One Pattern, Many Threads — the Tapestry (Mintaka): unify where necessary
+  without erasing what makes each part distinct.
+  https://cvpe.eu/a-certain-vision/tapestry
+Story and artist invitation: https://cvpe.eu/a-certain-vision/the-story
+
 ## Key positions
 - European digital sovereignty requires ownership-and-control, not
   registration-country or operational-independence claims.
@@ -43,6 +64,7 @@ Enterprise cloud transformation. EMEA public sector advisory. Founder.
 - Centre-right Overton window shift on immigration as structural not cyclical.
 
 ## Content
+A Certain Vision: https://cvpe.eu/a-certain-vision
 Essays: https://cvpe.eu/essays
 Lexicon: https://cvpe.eu/lexicon
 Accusation Audit: https://cvpe.eu/audit

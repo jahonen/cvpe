@@ -6,6 +6,51 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://cvpe.eu/a-certain-vision/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://cvpe.eu/a-certain-vision/ownership/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cvpe.eu/a-certain-vision/earned-trust/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cvpe.eu/a-certain-vision/belonging/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cvpe.eu/a-certain-vision/proximity-politics/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cvpe.eu/a-certain-vision/natural-monopolies/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cvpe.eu/a-certain-vision/new-commenda/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cvpe.eu/a-certain-vision/tapestry/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cvpe.eu/a-certain-vision/the-story/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://cvpe.eu/essays/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>

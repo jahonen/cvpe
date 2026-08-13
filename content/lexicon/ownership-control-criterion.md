@@ -19,6 +19,8 @@ Only ownership survives. An entity whose ultimate ownership and control sit insi
 
 Developed May 2026 in cloud sovereignty analysis surrounding the Tech Sovereignty Package, as the formal test underlying [Sovereignty Washing](/lexicon/sovereignty-washing): washing is precisely the practice of satisfying the gamed criteria (registration, geography, staffing) while failing the real one (ownership). The criterion follows [Ahonen's Razor](/lexicon/ahonens-razor) discipline: it is a problem-definition tool, deliberately silent on attribution and remedy.
 
+Stated as a positive commitment rather than a test, this is [the first of the seven stars](/a-certain-vision/ownership/).
+
 ## Implications
 
 Procurement language is the battlefield. A tender that specifies "data residency in the EU" invites washing; a tender that specifies "ultimate ownership and control within EU jurisdiction" excludes it in four words. The [Digital Sovereignty Package audit](/audit/digital-sovereignty-package) applies the criterion to the EU's own flagship programme. It applies to identity as forcefully as to compute — see [The Wallet Is the Point](/essays/age-verification-eudi-wallet-sovereignty/). And ownership does not only determine whose courts can reach a workload; it determines whose war the building is in — see [Every Rack Is a Target](/essays/platform-economy-expanding-military-targets/).
