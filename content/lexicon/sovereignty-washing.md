@@ -11,7 +11,7 @@ related: ["ownership-control-criterion", "evergray-wars"]
 
 The mechanics are simple and by now standardised. A hyperscaler creates a European subsidiary, a European joint venture, or a "sovereign region" — European staff, European data centres, a European flag on the landing page. Marketing announces digital sovereignty. Procurement announces compliance. What has not changed: the ownership chain terminates in Delaware or Shenzhen, and jurisdiction follows ownership. A US-owned entity is reachable by the CLOUD Act wherever its servers sit and whatever its subsidiary is named; a Chinese-owned entity is reachable by the National Intelligence Law on the same logic.
 
-Sovereignty washing is to digital policy what greenwashing is to climate policy: the substitution of the vocabulary of the goal for the substance of it — with the added hazard that the vocabulary actively suppresses demand for the substance. Every tender that accepts a washed offering as "sovereign" is a tender a genuinely European provider did not win, and a capability Europe did not build.
+Sovereignty washing is to digital policy what greenwashing is to climate policy: [the substitution of the vocabulary of the goal for the substance of it](/a-certain-vision/ownership/) — with the added hazard that the vocabulary actively suppresses demand for the substance. Every tender that accepts a washed offering as "sovereign" is a tender a genuinely European provider did not win, and a capability Europe did not build.
 
 ## Development
 

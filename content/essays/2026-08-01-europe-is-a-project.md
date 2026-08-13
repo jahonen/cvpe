@@ -34,7 +34,7 @@ A project, by contrast, can fail. That is its virtue. If Europe is a project, th
 
 This matters now because the environment has changed. Europe no longer lives in peace punctuated by war. It lives in the [evergray](/lexicon/evergray-wars): permanent, managed hostility below the Article 5 threshold. Cut cables. Jammed navigation. [Manufactured migration surges](/essays/people-as-ammunition-ceuta-weapons-development/). Unattributable drones over airfields. Nothing declared, nothing concluded, everything deniable.
 
-Heritage is useless here. You cannot deter a hybrid campaign with a founding myth. The evergray rewards exactly the capacities that heritage nationalism neglects: infrastructure ownership, industrial depth, institutional speed, and the boring sovereignty of knowing who actually controls your systems when a subpoena arrives in a foreign jurisdiction.
+Heritage is useless here. You cannot deter a hybrid campaign with a founding myth. The evergray rewards exactly the capacities that heritage nationalism neglects: [infrastructure ownership, industrial depth, institutional speed](/a-certain-vision/ownership/), and the boring sovereignty of knowing who actually controls your systems when a subpoena arrives in a foreign jurisdiction.
 
 The evergray also punishes the project's besetting vice — the announcement mistaken for the achievement. A "sovereignty package" that leaves every workload under foreign jurisdictional reach is not a defence; it is a press release with a flag on it. This site will keep a [ledger](/audit) of those gaps between the stated and the actual, because the gap is where Europe loses.
 
@@ -52,7 +52,7 @@ The method throughout is what I have elsewhere called [Ahonen's Razor](/lexicon/
 
 ## The civic wager
 
-The project view of Europe rests on a wager: that identity can be built from participation rather than descent. A Finn in Greece, a Pole in Ireland, a Syrian in Sweden holding a fresh passport — the heritage claim has no coherent account of these people. The project does: they are co-builders, judged by contribution, bound by the same falsifiable standards as everyone else.
+The project view of Europe rests on a wager: that [identity can be built from participation rather than descent](/a-certain-vision/belonging/). A Finn in Greece, a Pole in Ireland, a Syrian in Sweden holding a fresh passport — the heritage claim has no coherent account of these people. The project does: they are co-builders, judged by contribution, bound by the same falsifiable standards as everyone else.
 
 This is not sentimentality. It is the only definition of Europe that scales to the century we are actually in — one where the continent's adversaries are betting that heritage anxiety will do their work for them, fracturing the project from inside while the evergray grinds at it from outside.
 

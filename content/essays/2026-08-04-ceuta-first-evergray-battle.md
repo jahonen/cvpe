@@ -64,7 +64,7 @@ The Ceuta event revealed, under pressure, that the operative EU migration doctri
 
 Spain managed the crossing without EU assistance, returned almost all within 48 hours, and emerged politically stronger than before the event. Brussels offered Frontex support and rhetorical hardness. The frontline state handled its own perimeter.
 
-This is what I call proximity politics: the de facto devolution of border management authority to the states physically located at the pressure point. The EU Geneva framework remains nominally intact. Interpretation becomes regional. Brussels covers the rear.
+This is what I call proximity politics: [the de facto devolution of border management authority to the states physically located at the pressure point](/a-certain-vision/proximity-politics/). The EU Geneva framework remains nominally intact. Interpretation becomes regional. Brussels covers the rear.
 
 The model works — in the narrow operational sense that the Ceuta crossing was managed without catastrophic escalation, without refugee camps, without the institutional paralysis that has characterised previous EU migration crises.
 

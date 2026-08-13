@@ -11,7 +11,7 @@ From May 2020 to April 2023, Aura Salla served as Public Policy Director and Hea
 
 In 2024 she was elected as a Kokoomus MEP and appointed rapporteur for the Digital Omnibus — the legislation that revises and simplifies the same GDPR enforcement architecture she spent three years lobbying against.
 
-She failed to declare her Meta role as a potential conflict of interest in her declaration of awareness, as required by the Parliament's Code of Conduct. Seven civil society organisations issued a formal open letter calling for her appointment to be withdrawn.
+She [failed to declare her Meta role as a potential conflict of interest](/a-certain-vision/earned-trust/) in her declaration of awareness, as required by the Parliament's Code of Conduct. Seven civil society organisations issued a formal open letter calling for her appointment to be withdrawn.
 
 In April 2025 she sold undeclared stocks in a defence company following press reporting — stocks she had not declared in her declaration of private interests, held while participating in discussions about major increases in defence subsidies to that sector.
 
