@@ -1,0 +1,39 @@
+{
+  "_comment": "Shared Orion geometry, used by every constellation card so all cards stay visually consistent. Derived from J2000 right ascension and declination, normalised to a 0-1 canvas: x from RA (increasing eastward, therefore leftward in a sky view), y from declination (north up). Resolves the open task in the spec.",
+  "source": "J2000 RA/Dec, normalised",
+  "star_positions": {
+    "Betelgeuse": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Bellatrix": {
+      "x": 0.7393,
+      "y": 0.0619
+    },
+    "Rigel": {
+      "x": 1.0,
+      "y": 0.914
+    },
+    "Saiph": {
+      "x": 0.1825,
+      "y": 1.0
+    },
+    "Alnitak": {
+      "x": 0.3547,
+      "y": 0.5475
+    },
+    "Alnilam": {
+      "x": 0.4666,
+      "y": 0.5041
+    },
+    "Mintaka": {
+      "x": 0.5701,
+      "y": 0.4513
+    }
+  },
+  "belt": [
+    "Alnitak",
+    "Alnilam",
+    "Mintaka"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "_status": "PROPOSAL — star verdicts below are a first reading drawn from the audit text and need JP's sign-off before this card is treated as published analysis.",
+  "case_slug": "ceuta-solidarity-failure",
+  "case_title": "Ceuta Response",
+  "checked_on": "2026-08-17",
+  "source_url": "https://cvpe.eu/audit/ceuta-solidarity-failure/",
+  "linked_audit_slug": "ceuta-solidarity-failure",
+  "stars": [
+    { "star_number": 1, "star_name": "Betelgeuse", "star_label": "Ownership and Control",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "This entry audits the EU's internal response, not who owns the infrastructure." },
+    { "star_number": 2, "star_name": "Bellatrix", "star_label": "Institutional Trust, Earned",
+      "verdict": "VIOLATED", "fit_type": "DIRECT",
+      "reason_short": "One statement, nothing resolved: trust was assumed rather than earned." },
+    { "star_number": 3, "star_name": "Rigel", "star_label": "Civic Belonging as Practice",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "Belonging is not the axis this case turns on." },
+    { "star_number": 4, "star_name": "Saiph", "star_label": "Proximity Politics",
+      "verdict": "CONFIRMED", "fit_type": "DIRECT",
+      "reason_short": "Spain resolved in 48 hours what Brussels never resolved at all." },
+    { "star_number": 5, "star_name": "Alnitak", "star_label": "Public Ownership of Natural Monopolies",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "No natural-monopoly infrastructure is at issue here." },
+    { "star_number": 6, "star_name": "Alnilam", "star_label": "A Fair Deal Between Public and Private",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "No public-private risk sharing is at issue here." },
+    { "star_number": 7, "star_name": "Mintaka", "star_label": "One Pattern, Many Threads",
+      "verdict": "VIOLATED", "fit_type": "EXTENSION",
+      "reason_short": "Schengen fractured into competing threads and nobody rewove the pattern." }
+  ]
+}

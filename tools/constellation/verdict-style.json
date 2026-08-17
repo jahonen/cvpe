@@ -1,0 +1,17 @@
+{
+  "_comment": "Design-token layer, deliberately separate from per-case data (spec §5). Changing a verdict colour must never require touching a stored case record. Colours are the site's verdict palette in their dark-ground variants, since the card ground is EU-blue #1d3557; each clears 4.5:1 on that ground.",
+  "ground": "#1d3557",
+  "ink": "#f7f5f0",
+  "accent": "#c8963c",
+  "muted": "#8fa3bd",
+  "verdict_style": {
+    "CONFIRMED":   { "colour": "#4cc27e", "label": "Confirmed" },
+    "VIOLATED":    { "colour": "#e06a5c", "label": "Violated" },
+    "NOT_ENGAGED": { "colour": "#7d93ab", "label": "Not engaged" },
+    "AMBIGUOUS":   { "colour": "#f0c579", "label": "Ambiguous" }
+  },
+  "fit_type_style": {
+    "DIRECT":    { "fill": "solid",  "label": "Direct" },
+    "EXTENSION": { "fill": "hollow", "label": "Extension" }
+  }
+}
