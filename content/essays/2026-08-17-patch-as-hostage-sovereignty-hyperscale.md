@@ -5,7 +5,7 @@ date: 2026-08-17
 modified: 2026-08-17
 domain: Sovereignty
 excerpt: "AWS, Microsoft, and Oracle all now promise 'sovereign' clouds with dedicated European security operations. Their own documentation reveals why that promise cannot survive contact with a genuine crisis — and why the failure is economic, not merely legal."
-bluesky_thread: ""
+bluesky_thread: "at://did:plc:lazitworajfevap666me4pvn/app.bsky.feed.post/3mtbunil6m22c"
 prediction: false
 prediction_status: ""
 reading_time: 14
