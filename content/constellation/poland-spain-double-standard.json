@@ -1,10 +1,10 @@
 {
   "_status": "Star verdicts reviewed and approved for publication, 17 August 2026.",
-  "case_slug": "ceuta-solidarity-failure",
-  "case_title": "Ceuta Response",
+  "case_slug": "poland-spain-double-standard",
+  "case_title": "Poland / Spain Double Standard",
   "checked_on": "2026-08-17",
-  "source_url": "https://cvpe.eu/audit/ceuta-solidarity-failure/",
-  "linked_audit_slug": "ceuta-solidarity-failure",
+  "source_url": "https://cvpe.eu/audit/poland-spain-double-standard/",
+  "linked_audit_slug": "poland-spain-double-standard",
   "stars": [
     {
       "star_number": 1,
@@ -12,7 +12,7 @@
       "star_label": "Ownership and Control",
       "verdict": "NOT_ENGAGED",
       "fit_type": null,
-      "reason_short": "This entry audits the EU's internal response, not who owns the infrastructure."
+      "reason_short": "No question of who owns or controls an asset arises in this case."
     },
     {
       "star_number": 2,
@@ -20,7 +20,7 @@
       "star_label": "Institutional Trust, Earned",
       "verdict": "VIOLATED",
       "fit_type": "DIRECT",
-      "reason_short": "One statement, nothing resolved: trust was assumed rather than earned."
+      "reason_short": "Enforcement bent to a government's politics rather than the legal facts."
     },
     {
       "star_number": 3,
@@ -28,7 +28,7 @@
       "star_label": "Civic Belonging as Practice",
       "verdict": "NOT_ENGAGED",
       "fit_type": null,
-      "reason_short": "Belonging is not the axis this case turns on."
+      "reason_short": "The case concerns treatment of member states, not who belongs."
     },
     {
       "star_number": 4,
@@ -36,7 +36,7 @@
       "star_label": "Proximity Politics",
       "verdict": "CONFIRMED",
       "fit_type": "DIRECT",
-      "reason_short": "Spain resolved in 48 hours what Brussels never resolved at all."
+      "reason_short": "Both frontline states handled their own perimeter, as the star argues they should."
     },
     {
       "star_number": 5,
@@ -60,7 +60,7 @@
       "star_label": "One Pattern, Many Threads",
       "verdict": "VIOLATED",
       "fit_type": "EXTENSION",
-      "reason_short": "Schengen fractured into competing threads and nobody rewove the pattern."
+      "reason_short": "One law, two patterns: consistency failed before distinctness was ever tested."
     }
   ]
 }
