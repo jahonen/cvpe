@@ -13,7 +13,7 @@ Applied to any infrastructure claiming to be sovereign, the criterion asks a sin
 
 The criterion exists because the alternatives are systematically gamed. **Registration-country claims** ("our EU entity is incorporated in Frankfurt") fail because the US CLOUD Act reaches data in the possession, custody, or control of US-owned providers regardless of where a subsidiary is registered or where the data is stored. **Deployment-geography claims** ("your data never leaves Europe") fail for the same reason: data residency constrains latency, not jurisdiction. **Operational-independence claims** ("the sovereign region is run by European staff under European supervision") fail because staffing arrangements do not survive a lawful order to the parent company.
 
-Only ownership survives. An entity whose ultimate ownership and control sit inside EU jurisdiction is reachable only by EU law. Anything else is reachable by someone else's — and infrastructure reachable by someone else's law is, in the [evergray](/lexicon/evergray-wars) environment, someone else's infrastructure.
+[Only ownership survives.](/essays/patch-as-hostage-sovereignty-hyperscale/) An entity whose ultimate ownership and control sit inside EU jurisdiction is reachable only by EU law. Anything else is reachable by someone else's — and infrastructure reachable by someone else's law is, in the [evergray](/lexicon/evergray-wars) environment, someone else's infrastructure.
 
 ## Development
 

@@ -8,6 +8,15 @@
     <language>en-gb</language>
     <atom:link href="https://cvpe.eu/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>The Patch as Hostage: Why Sovereignty and Hyperscale Are Incompatible</title>
+      <link>https://cvpe.eu/essays/patch-as-hostage-sovereignty-hyperscale</link>
+      <guid isPermaLink="true">https://cvpe.eu/essays/patch-as-hostage-sovereignty-hyperscale</guid>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
+      <dc:creator>JP Ahonen</dc:creator>
+      <category>Sovereignty</category>
+      <description>AWS, Microsoft, and Oracle all now promise 'sovereign' clouds with dedicated European security operations. Their own documentation reveals why that promise cannot survive contact with a genuine crisis — and why the failure is economic, not merely legal.</description>
+    </item>
+    <item>
       <title>The Child in the Audience</title>
       <link>https://cvpe.eu/essays/the-child-in-the-audience</link>
       <guid isPermaLink="true">https://cvpe.eu/essays/the-child-in-the-audience</guid>

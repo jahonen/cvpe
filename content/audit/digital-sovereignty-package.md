@@ -11,7 +11,7 @@ The European Commission's Tech Sovereignty Package — its flagship digital inde
 
 The CLOUD Act allows the US government to compel American companies to produce data stored anywhere in the world, including in EU-incorporated subsidiaries, without requiring a mutual legal assistance treaty. A German legal entity staffed by German employees operating an AWS data centre does not change this jurisdiction. Jurisdiction follows the parent company. The parent company is American. See the [Ownership-Control Criterion](/lexicon/ownership-control-criterion/).
 
-[The package was written on terms that the hyperscalers themselves had been lobbying for in Brussels for three years.](/a-certain-vision/ownership/) It produces vocabulary. It does not produce sovereignty. See [Sovereignty Washing](/lexicon/sovereignty-washing/).
+[The package was written on terms that the hyperscalers themselves had been lobbying for in Brussels for three years.](/a-certain-vision/ownership/) [It produces vocabulary. It does not produce sovereignty.](/essays/patch-as-hostage-sovereignty-hyperscale/) See [Sovereignty Washing](/lexicon/sovereignty-washing/).
 
 The test is simple: if a US court issues a CLOUD Act order tomorrow against data held in the European Sovereign Cloud of any American hyperscaler, the data is produced. Nothing in the Tech Sovereignty Package changes that outcome. Europe has demonstrated elsewhere that it can build infrastructure that passes this test — see [The Wallet Is the Point](/essays/age-verification-eudi-wallet-sovereignty/).
 
