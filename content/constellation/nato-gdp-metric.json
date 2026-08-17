@@ -1,0 +1,31 @@
+{
+  "_status": "Star verdicts reviewed and approved for publication, 17 August 2026.",
+  "case_slug": "nato-gdp-metric",
+  "case_title": "NATO GDP Metric",
+  "checked_on": "2026-08-17",
+  "source_url": "https://cvpe.eu/audit/nato-gdp-metric/",
+  "linked_audit_slug": "nato-gdp-metric",
+  "stars": [
+    { "star_number": 1, "star_name": "Betelgeuse", "star_label": "Ownership and Control",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "The case concerns how capability is measured, not who owns it." },
+    { "star_number": 2, "star_name": "Bellatrix", "star_label": "Institutional Trust, Earned",
+      "verdict": "VIOLATED", "fit_type": "DIRECT",
+      "reason_short": "The alliance keeps a metric it knows misreports what it claims to measure." },
+    { "star_number": 3, "star_name": "Rigel", "star_label": "Civic Belonging as Practice",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "Belonging is not the axis this case turns on." },
+    { "star_number": 4, "star_name": "Saiph", "star_label": "Proximity Politics",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "No question of which level should decide arises in this case." },
+    { "star_number": 5, "star_name": "Alnitak", "star_label": "Public Ownership of Natural Monopolies",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "No natural-monopoly infrastructure is at issue here." },
+    { "star_number": 6, "star_name": "Alnilam", "star_label": "A Fair Deal Between Public and Private",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "Dual-use accounting is a measurement problem, not a risk-sharing bargain." },
+    { "star_number": 7, "star_name": "Mintaka", "star_label": "One Pattern, Many Threads",
+      "verdict": "VIOLATED", "fit_type": "EXTENSION",
+      "reason_short": "The metric rewards duplicated heavy platforms over the specialisation the star wants." }
+  ]
+}
