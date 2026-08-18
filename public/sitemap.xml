@@ -144,6 +144,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://cvpe.eu/audit/eu-parcel-duty/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cvpe.eu/audit/digital-sovereignty-package/</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
