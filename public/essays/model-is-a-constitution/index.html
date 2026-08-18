@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>The Model Is a Constitution: Why Europe Cannot Rent Its Values — CVPE</title>
+  <meta name="description" content="A frontier model's value profile is a written document, drafted in one jurisdiction under one legal system. Europe can license the software, not the judgement inside it.">
+  <meta name="author" content="JP Ahonen">
+  <link rel="canonical" href="https://cvpe.eu/essays/model-is-a-constitution/">
+
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="The Model Is a Constitution: Why Europe Cannot Rent Its Values — CVPE">
+  <meta property="og:description" content="A frontier model's value profile is a written document, drafted in one jurisdiction under one legal system. Europe can license the software, not the judgement inside it.">
+  <meta property="og:url" content="https://cvpe.eu/essays/model-is-a-constitution/">
+  <meta property="og:image" content="https://cvpe.eu/assets/og/model-is-a-constitution.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="CVPE — The Model Is a Constitution: Why Europe Cannot Rent Its Values">
+  <meta property="og:site_name" content="CVPE — Certa Vizio Pri Eŭropo">
+  <meta property="og:locale" content="en_GB">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Model Is a Constitution: Why Europe Cannot Rent Its Values — CVPE">
+  <meta name="twitter:description" content="A frontier model's value profile is a written document, drafted in one jurisdiction under one legal system. Europe can license the software, not the judgement inside it.">
+  <meta name="twitter:image" content="https://cvpe.eu/assets/og/model-is-a-constitution.png">
+  <meta name="twitter:image:alt" content="CVPE — The Model Is a Constitution: Why Europe Cannot Rent Its Values">
+  <meta property="article:published_time" content="2026-08-18">
+  <meta property="article:author" content="JP Ahonen">
+  <meta property="article:tag" content="Sovereignty">
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "The Model Is a Constitution: Why Europe Cannot Rent Its Values",
+  "description": "A frontier model's value profile is a written document, drafted in one jurisdiction, under one legal system, anticipating one regulator. Europe can license the software. It cannot license the judgement encoded inside it.",
+  "author": {
+    "@type": "Person",
+    "name": "JP Ahonen",
+    "sameAs": "https://bsky.app/profile/jpahonen.eurosky.social"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CVPE",
+    "url": "https://cvpe.eu"
+  },
+  "datePublished": "2026-08-18",
+  "dateModified": "2026-08-18",
+  "url": "https://cvpe.eu/essays/model-is-a-constitution",
+  "keywords": "AI sovereignty, frontier models, alignment specification, Mistral, commenda, European AI, model spec, industrial policy",
+  "articleSection": "Sovereignty",
+  "inLanguage": "en-GB",
+  "about": {
+    "@type": "Thing",
+    "name": "Sovereignty"
+  }
+}</script>
+
+  <link rel="alternate" type="application/rss+xml"
+        title="CVPE Essays" href="https://cvpe.eu/feed.xml">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/css/main.css?v=d16c9371">
+  <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+</head><body>
+<a href="#main" class="skip-link">Skip to content</a>
+<header class="masthead" role="banner">
+  <div class="container">
+    <a href="/" class="wordmark" aria-label="CVPE home">CVPE<span>.</span>eu</a>
+    <nav class="nav" aria-label="Primary navigation">
+      <a href="/a-certain-vision">Vision</a>
+      <a href="/essays" aria-current="page">Essays</a>
+      <a href="/lexicon">Lexicon</a>
+      <a href="/audit">Audit</a>
+      <a href="/about">About</a>
+    </nav>
+  </div>
+</header>
+<main id="main" role="main">
+  <div class="container">
+    <article data-pagefind-body>
+      <header class="article-header">
+        <span class="tag">Sovereignty</span>
+        <h1>The Model Is a Constitution: Why Europe Cannot Rent Its Values</h1>
+        <span class="meta">JP Ahonen · <time datetime="2026-08-18">18 August 2026</time> · 13 min read</span>
+      </header>
+      <div class="prose">
+      <p>There is a comfortable assumption underneath most European AI procurement: that a large language model is a tool, and that tools are neutral. Buy the best one available, apply European rules to how it is used, and <a href="/essays/patch-as-hostage-sovereignty-hyperscale/">sovereignty is a matter of where the data sits</a> and who holds the contract.</p>
+      <p>This is wrong, and the reason it is wrong is not mystical. It is documented, in public, by the companies themselves.</p>
+      <hr>
+      <h2>The Values Are Not Emergent. They Are Written Down.</h2>
+      <p>A common version of this argument holds that because models are trained on different data, they absorb different cultural assumptions. That version is weak, and it should be abandoned rather than defended. Frontier labs train on broadly overlapping corpora — the same public web, the same books, the same code. And it is true but nearly meaningless that two training runs produce different weights: random initialisation alone guarantees numerical divergence between two models with functionally identical values. Uniqueness of parameters is not evidence of cultural specificity. Anyone making that argument in front of a technical audience will lose, and deserve to.</p>
+      <p>The real mechanism sits later in the pipeline, and it is far harder to dismiss, because it is not emergent at all. It is authored.</p>
+      <p>What a model will and will not say, how it weighs competing claims, where it refuses, what it treats as settled and what it treats as contested — these are set during post-training: the alignment stage, where a lab specifies the behaviour it wants and trains the model toward it. And the frontier labs do not hide this. Anthropic publishes <a href="https://www.anthropic.com/news/claudes-constitution" target="_blank" rel="noopener">a constitution for its models</a>. OpenAI publishes <a href="https://model-spec.openai.com/" target="_blank" rel="noopener">a model specification</a>. These are written documents. They are drafted by identifiable organisations, incorporated in identifiable jurisdictions, employing annotator populations recruited under particular labour markets, anticipating liability under particular courts, and calibrating refusals against particular regulators.</p>
+      <p>A model's value profile is therefore not an accident of the data. It is a policy document, executed in weights.</p>
+      <p>Once that is clear, the European question stops being philosophical and becomes concrete. American constitutional law treats speech restrictions with a suspicion that German and French law do not share; a model calibrated to First Amendment intuitions will draw the line on hateful speech in a place that does not match the Strafgesetzbuch or the Loi Gayssot. American privacy practice treats personal data as a commodity with contractual protections; GDPR treats it as a fundamental right with structural ones. A model's defaults on what it will infer, retain, or volunteer about a person reflect one of those two starting points, not both. On colonial history, on contested territory, on the legitimacy of political violence in specific historical cases, on the balance between free expression and dignity — a model gives answers, and those answers were shaped by someone, somewhere, working under a particular set of legal and commercial incentives.</p>
+      <p>None of this requires bad faith from any lab. An American company writing an American document under American law, anticipating an American regulator, is doing exactly what a well-run American company should do. The point is narrower and harder to escape: the artefact it produces is not jurisdictionally neutral, and using it at scale in Europe means adopting a set of value judgements Europe did not make, cannot inspect in full, and cannot amend.</p>
+      <p>Europe can license the software. It cannot license the judgement encoded inside it.</p>
+      <hr>
+      <h2>What This Is Not</h2>
+      <p>This is not an argument that American models are hostile, badly built, or unsafe. They are, by most measures, the most capable systems available, and European institutions currently use them for good reasons.</p>
+      <p>Nor is it an argument that a European model would be neutral. It would not be. It would encode European value judgements — which is precisely the point, and precisely why the question of who writes that specification, under what democratic accountability, is a governance question rather than a procurement one.</p>
+      <p>And it is not a natural monopoly argument. It is worth being explicit about this, because <a href="/a-certain-vision/natural-monopolies/">this site has made natural-monopoly arguments elsewhere</a> and the term should not be stretched to cover things it does not fit. A natural monopoly exists where duplication is inherently wasteful and competition structurally impossible — the second set of distribution cables down the same street, the second water main. Frontier models fail that test plainly. There are several frontier labs competing right now, entry has repeatedly occurred, and the competition between them is producing real capability gains. Anyone claiming frontier models are a natural monopoly is describing a market that visibly does not exist.</p>
+      <p>The layer underneath them is a different matter. Gigawatt-scale compute, grid connections, and the power infrastructure that feeds them have genuine natural-monopoly characteristics, in exactly the way <a href="/a-certain-vision/natural-monopolies/">generation and grid differ</a>: you can build many competing generators, but running competing sets of high-voltage transmission to the same place is waste. Models are generation. The compute substrate is closer to the wires. That distinction matters for what Europe should own outright versus what it should merely fund well.</p>
+      <p>So the case for a European frontier model is not that only one can exist. It is that Europe can afford to do this properly approximately once, and should therefore decide deliberately rather than by accident.</p>
+      <hr>
+      <h2>Strategic Resourcing, Not Market Structure</h2>
+      <p><a href="https://mistral.ai/" target="_blank" rel="noopener">Mistral</a> is the concrete instance of this question, not a hypothetical.</p>
+      <p>The company is European-incorporated, ships open-weight models that can run on European infrastructure under European jurisdiction, and has built its commercial identity around exactly the sovereignty proposition this essay describes. Its last confirmed valuation was €11.7 billion, following a €1.7 billion Series C in September 2025 led by <a href="https://www.asml.com/en" target="_blank" rel="noopener">ASML</a> — the Dutch lithography firm taking roughly an 11% stake, which is industrial policy wearing a venture capital suit. A substantially larger round at around €20 billion was reported in talks during mid-2026; at the time of writing it has not been confirmed closed, and it should not be treated as fact. Revenue has grown steeply, with annual recurring revenue reported crossing $400 million in early 2026 against a stated target above $1 billion. The company has taken on €722 million in debt financing, backed by <a href="https://www.bpifrance.fr/" target="_blank" rel="noopener">Bpifrance</a> and BNP Paribas, to build Nvidia-powered data centres in France and Sweden, targeting 200MW of compute capacity by 2027.</p>
+      <p>Set against American comparators, the asymmetry is stark rather than encouraging. Mistral's capital base is a fraction of OpenAI's or Anthropic's. Its compute ambitions are measured in hundreds of megawatts where American buildouts are measured in gigawatts. This is not a company that will win a spending race, and pretending otherwise helps no one.</p>
+      <p>Which is exactly why the resourcing question is strategic rather than structural. Europe is not choosing between one champion and a competitive market — it is choosing between one adequately funded champion and several underfunded ones. The EU's <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-continent-action-plan" target="_blank" rel="noopener">AI Continent Action Plan</a> commits roughly €20 billion across member states, with thirteen AI factories funded through <a href="https://eurohpc-ju.europa.eu/" target="_blank" rel="noopener">EuroHPC</a>. Germany has Aleph Alpha and Black Forest Labs. The UK has Stability. Each is real; none is close to frontier scale. Distributing European resources evenly across a field of national champions, each chasing the same frontier with a fraction of the necessary capital, is the reliable way to produce several second-tier labs and no first-tier one.</p>
+      <p>That is a choice about allocation under scarcity. It has nothing to do with whether competition is possible in principle, and everything to do with whether Europe's actual available capital, concentrated, clears the threshold that matters.</p>
+      <hr>
+      <h2>The Commenda Problem</h2>
+      <p>If Europe concentrates public capital behind a private frontier lab, it runs directly into a problem this site has described before: public money underwrites the risk, private shareholders capture the return, and the public ends up holding neither ownership nor leverage over an asset it paid to create.</p>
+      <p>The historical answer to precisely this problem is European, and it is old.</p>
+      <p>The commenda emerged in the Italian maritime republics in the twelfth century — the earliest documented example in Genoa in 1156 — to solve a structurally identical situation. Long-distance trade offered enormous returns and catastrophic risk. Ships sank. One party held capital but could not or would not sail; the other had the skill and willingness to sail but not the capital. The contract paired a sedentary investor with a travelling merchant, splitting profits on agreed proportions, with the investor's losses limited to the stake contributed. In Genoa, notarial records between 1154 and 1315 document over 8,400 sea-venture partnerships, more than 93% of them structured as commenda. The bilateral variant, where the travelling merchant contributed capital of his own, split profits evenly and shared losses — the terms tracked who actually bore what risk.</p>
+      <p>Its significance was not just efficiency. It was participation. The commenda let nobles, widows, artisans, and religious houses invest in ventures they could not personally undertake, broadening capital formation well beyond the merchant elite. The structure proved durable enough to survive centuries and to be recognisably reinvented as modern private equity.</p>
+      <p>What the commenda encoded, and what modern public-private arrangements routinely fail to encode, is that the party bearing the risk holds a permanent, proportionate claim on the return. Not a subsidy. Not a grant that quietly becomes someone's private fortune. A stake.</p>
+      <p>Applied to a European frontier lab, <a href="/a-certain-vision/new-commenda/">the principle</a> implies a small number of specific commitments, which this essay states rather than elaborates. Public capital enters as equity, not grant. The public stake is permanent and proportionate to risk borne, not diluted away in subsequent rounds. Losses fall where the capital was committed, as they did in the original contract. And critically for the argument above: the alignment specification — the written value document that determines what the model actually does — is subject to democratic accountability, because that document is where sovereignty either exists or doesn't. <a href="/lexicon/ownership-control-criterion/">Ownership of the company without visibility into the specification</a> would be ownership of the shell rather than the substance.</p>
+      <p>The ASML stake in Mistral is instructive precisely because it is halfway there. A European industrial anchor taking 11% of a European frontier lab is the right instinct, executed as ordinary venture investment rather than as a structured public claim with governance attached. The instinct is sound. The structure is not yet the commenda.</p>
+      <hr>
+      <h2>What Follows</h2>
+      <p>Europe's AI debate has been conducted almost entirely as a capability race — can Europe catch up, how much compute, how many gigawatts, whose champion. That framing is not wrong, but it is downstream of a prior question that has barely been asked in public: who writes the specification.</p>
+      <p>A frontier model deployed across European public administration, healthcare, education, and courts will make millions of small judgement calls a day, each reflecting a value document drafted by someone. If that document was written in San Francisco under American law, European institutions will be running on American judgement, at scale, invisibly, in a way no procurement clause reaches and <a href="/lexicon/ownership-control-criterion/">no data-residency guarantee touches</a>.</p>
+      <p>That is the actual sovereignty question. It is not where the weights are stored. It is whose constitution they encode.</p>
+      <hr>
+      <p class="body-sm"><em>JP Ahonen is a transformation director, Finnish defence reservist, and independent analyst based in Porto Rafti, Greece.</em></p>
+      </div>
+    </article>
+
+    <section class="section-block" aria-labelledby="related-label" data-pagefind-ignore>
+      <h2 class="section-label" id="related-label">Related</h2>
+      <dl class="term-preview">
+        <dt><a href="/a-certain-vision/new-commenda/">Star Six: A Fair Deal Between Public and Private</a></dt>
+        <dd>The commenda principle this essay applies to a European frontier lab.</dd>
+        <dt><a href="/essays/patch-as-hostage-sovereignty-hyperscale/">The Patch as Hostage</a></dt>
+        <dd>The same argument one layer down: why rented sovereignty fails in the security pipeline.</dd>
+        <dt><a href="/lexicon/ownership-control-criterion/">Lexicon: Ownership-Control Criterion</a></dt>
+        <dd>Jurisdiction follows ownership — extended here from infrastructure to judgement.</dd>
+      </dl>
+    </section>
+
+    <section class="section-block" aria-labelledby="discussion-label" data-pagefind-ignore>
+      <h2 class="section-label" id="discussion-label">Discussion</h2>
+      <div id="bsky-discussion" aria-live="polite"></div>
+    </section>
+  </div>
+</main>
+<script src="/js/bluesky.js?v=71c9641b" defer></script>
+<script defer>
+  window.addEventListener('DOMContentLoaded', function () {
+    loadBlueskyThread('', 'bsky-discussion'); // bluesky_thread: set when thread is posted
+  });
+</script>
+<footer class="footer" role="contentinfo">
+  <div class="container">
+    <p class="footer-tagline">"A Certain Vision of Europe."</p>
+    <nav class="footer-links" aria-label="Footer navigation">
+      <a href="/a-certain-vision">A Certain Vision</a>
+      <a href="/essays">Essays</a>
+      <a href="/lexicon">Lexicon</a>
+      <a href="/audit">Audit</a>
+      <a href="/guests">Guests</a>
+      <a href="/quotes">Quotes</a>
+      <a href="/about">About</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+    <p class="footer-meta">
+      CVPE — Certa Vizio Pri Eŭropo · Porto Rafti, Greece<br>
+      Hosted on DanubeData, EU infrastructure.
+      No US data transfers. No CLOUD Act exposure.
+      We practise what we publish.
+    </p>
+    <p class="footer-meta">
+      All predictions logged with timestamps.
+      Post-mortems published regardless of outcome.
+    </p>
+  </div>
+</footer>
+</body>
+</html>
