@@ -15,7 +15,7 @@ The NATO GDP percentage target — currently 2%, moving toward 3% — measures f
 
 The dual-use technology problem compounds the distortion. Containerised sensor networks that monitor maritime traffic in peacetime and convert to coastal defence capability in wartime cost money once and deliver value twice — but only the defence allocation counts toward GDP percentage. The civilian productivity generated during peacetime is invisible to NATO accounting.
 
-The perverse outcome: the metric structurally rewards expensive single-purpose legacy platform procurement over [cheap dual-use distributed capability](/a-certain-vision/tapestry/). It incentivises the apple waist — heavy conventional platforms in dedicated defence budgets score well; smart distributed systems with civilian applications score poorly.
+The perverse outcome: the metric structurally rewards expensive single-purpose legacy platform procurement over [cheap dual-use distributed capability](/a-certain-vision/tapestry/). [It incentivises the apple waist](/essays/highway-is-the-doctrine/) — heavy conventional platforms in dedicated defence budgets score well; smart distributed systems with civilian applications score poorly.
 
 Niinistö's European NATO report (May 2026) proposed structural changes to the Force Model and command architecture but did not challenge the GDP metric directly. The Hegseth meeting in Brussels (May 2026) further destabilised the Force Model without producing a replacement framework.
 

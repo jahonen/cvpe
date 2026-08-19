@@ -13,7 +13,7 @@ The commitment was made under pressure from [a Trump administration NATO ultimat
 
 The Hormuz mission's own security analysts — RUSI among them — stated publicly that if European contributors were not prepared to join the war, they should not participate in the coalition, because Iranian forces would correctly assess that European naval assets do not constitute a credible deterrence force without war-fighting intent.
 
-Finland committed assets to a theatre where: Finnish national interests are not directly at stake; the legal basis for Finnish military action has not been publicly articulated; no exit doctrine has been established; the operational command is effectively American; and the primary beneficiary of Hormuz passage is US strategic positioning, not Finnish energy security.
+Finland committed assets to a theatre where: Finnish national interests are not directly at stake; the legal basis for Finnish military action has not been publicly articulated; no exit doctrine has been established; [the operational command is effectively American](/essays/highway-is-the-doctrine/); and the primary beneficiary of Hormuz passage is US strategic positioning, not Finnish energy security.
 
 Gulf states — Qatar, Saudi Arabia, UAE — demonstrated in May 2026 that they have more direct influence over American escalation decisions than any European member of the coalition. Finland is a subcontractor in an operation whose strategic direction is determined by Riyadh and Doha.
 
