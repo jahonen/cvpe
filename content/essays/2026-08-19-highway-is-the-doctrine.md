@@ -5,7 +5,7 @@ date: 2026-08-19
 modified: 2026-08-19
 domain: Security
 excerpt: "Iran didn't sink a carrier. It destroyed a base 2,200 miles away and let arithmetic do the rest. The lesson isn't that carriers are obsolete — it's that concentration is, and Europe has a working alternative already running on its own roads."
-bluesky_thread: ""
+bluesky_thread: "at://did:plc:lazitworajfevap666me4pvn/app.bsky.feed.post/3mtgvrs3w6c2r"
 prediction: false
 prediction_status: ""
 reading_time: 13
