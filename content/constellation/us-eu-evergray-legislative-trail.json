@@ -1,0 +1,31 @@
+{
+  "_status": "Star verdicts reviewed and approved for publication, 21 August 2026.",
+  "case_slug": "us-eu-evergray-legislative-trail",
+  "case_title": "US-EU Legislative Trail",
+  "checked_on": "2026-08-21",
+  "source_url": "https://cvpe.eu/audit/us-eu-evergray-legislative-trail/",
+  "linked_audit_slug": "us-eu-evergray-legislative-trail",
+  "stars": [
+    { "star_number": 1, "star_name": "Betelgeuse", "star_label": "Ownership and Control",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "The case concerns alliance conduct, not who owns or controls an asset." },
+    { "star_number": 2, "star_name": "Bellatrix", "star_label": "Institutional Trust, Earned",
+      "verdict": "VIOLATED", "fit_type": "EXTENSION",
+      "reason_short": "An ally's own committee put a member state's borders in question, on the record." },
+    { "star_number": 3, "star_name": "Rigel", "star_label": "Civic Belonging as Practice",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "Belonging is not the axis this case turns on." },
+    { "star_number": 4, "star_name": "Saiph", "star_label": "Proximity Politics",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "This entry charges an external actor, not where a decision sat." },
+    { "star_number": 5, "star_name": "Alnitak", "star_label": "Public Ownership of Natural Monopolies",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "No natural-monopoly infrastructure is at issue here." },
+    { "star_number": 6, "star_name": "Alnilam", "star_label": "A Fair Deal Between Public and Private",
+      "verdict": "NOT_ENGAGED", "fit_type": null,
+      "reason_short": "No public-private risk sharing is at issue here." },
+    { "star_number": 7, "star_name": "Mintaka", "star_label": "One Pattern, Many Threads",
+      "verdict": "AMBIGUOUS", "fit_type": "EXTENSION",
+      "reason_short": "Whether one thread was picked out for pressure is exactly what stays unproven." }
+  ]
+}
