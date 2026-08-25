@@ -5,7 +5,7 @@ date: 2026-08-25
 modified: 2026-08-25
 domain: Institutions
 excerpt: "A street doesn't need two sets of water pipes. A continent needs one shared power line. Getting the size right, at every level, is most of what good government actually is."
-bluesky_thread: ""
+bluesky_thread: "at://did:plc:lazitworajfevap666me4pvn/app.bsky.feed.post/3mtvatodz6k2m"
 prediction: false
 prediction_status: ""
 reading_time: 10
