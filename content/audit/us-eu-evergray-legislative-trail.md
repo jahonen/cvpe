@@ -4,7 +4,7 @@ slug: us-eu-evergray-legislative-trail
 verdict: ongoing
 standard: "Alliance integrity; honest characterisation of US-EU relationship"
 published: 2026-08-04
-updated: 2026-08-21
+updated: 2026-08-27
 prediction_logged: "4 August 2026"
 resolution_expected: "Open"
 ---
@@ -27,6 +27,10 @@ This sequence constitutes the [first documented case of American legislative pre
 
 **First review — 21 August 2026: not resolved.** Seventeen days is too short to test a pattern claim, and nothing in that window meets the prediction's stated terms. Four candidates were considered and rejected. Latvia stopped 28 migrants from Belarus on 21 August after finding a tunnel — genuine hybrid pressure on an EU member state, but with no American precursor; the Belarus track is independent and long predates Ceuta. Rubio sanctioned ICC President Tomoko Akane and Deputy Prosecutor Abdoulaye Seye on 19 August under Executive Order 14203 — direct American action, but through no third-party instrument, and no EU national was targeted. The tightening of US Cuba policy has exposed Spanish companies to secondary sanctions, adding a second pressure track on the Sánchez government, but applied directly by Washington rather than through a proxy. And the second Ceuta wave of 15 August involved the same actors in the same theatre with no fresh American precursor on the record. The prediction stays open. The next meaningful checkpoint is the first instance involving a member state other than Spain, or a documented American precursor attached to a non-migration instrument.
 
+**Second review — 27 August 2026: still not resolved, and this is the closest candidate yet.** Morocco escalated sharply this week. At a royal palace ceremony on 24 August with King Mohammed VI present, the Minister of Islamic Affairs, Ahmed Toufiq, described a 15th-century imam as a symbol for Moroccans "to liberate the occupied cities" — direct, ministerial-level, state-choreographed language about Ceuta and Melilla, following Justice Minister Abdellatif Ouahbi's call the week before to formally discuss "the future of the two cities." This is a real hardening, not a repeat of July's ambiguity, and it draws cross-spectrum condemnation inside Spain — Vox's Abascal calling it "an act of war," Podemos independently reaching for "a hostile act of hybrid war," Sumar formally moving to strip Morocco's 2030 World Cup co-hosting status. Riccardo Fabiani, already on record in this entry, goes further this time: he reads the timing as Morocco signalling to Washington and Israel — "we've done what you implicitly told us to do, we've humiliated Spain" — and states that recent remarks from US and Israeli officials broaching Ceuta and Melilla made the issue "low-hanging fruit" for Rabat.
+
+That is the strongest analytical statement yet connecting American signalling to Moroccan escalation. It is still not a documented American precursor in the sense this entry requires. Fabiani's "recent remarks from U.S. and Israeli officials" are not named, dated, or sourced to a specific document the way Report 119-631 was — this is an expert's informed inference about signalling, not a committee report, a bill, or an official statement this audit can cite and date. Held to the same standard applied to the four rejected candidates on 21 August, this does not clear the bar. It also fails the stated next-checkpoint conditions on both counts: the target is still Spain, not a different member state, and the instrument is still the Ceuta/Melilla territorial question, not a new non-migration lever. What this review adds is a second, named, credentialed voice — Jorge Dezcallar, former Spanish ambassador to Morocco and former head of Spanish intelligence, warning that "Rabat confuses concessions with weakness" — strengthening the underlying pattern case without supplying the specific documented American action the prediction requires. The prediction remains open. The next meaningful checkpoint is unchanged: a member state other than Spain, or a named American document or statement precisely dated and tied to a non-migration instrument.
+
 **The charge:** American legislative preparation preceded a third-party hybrid operation against EU territory, and American diplomatic cover followed it.
 
 ## Evidence
@@ -45,3 +49,14 @@ This sequence constitutes the [first documented case of American legislative pre
 * Morocco-US strategic partnership documentation
 * Morocco-Russia strategic partnership, March 2016, renewed October 2025
 * Considered and rejected as prediction-resolving, 21 August 2026: Latvia/Belarus tunnel interception (no US precursor); ICC sanctions on Akane and Seye under EO 14203 (no third-party instrument, no EU national targeted); Cuba secondary-sanctions exposure of Spanish firms (direct rather than proxy pressure); second Ceuta wave of 15 August (no fresh US precursor)
+* Royal palace ceremony, Rabat, 24 August 2026: Minister of Islamic Affairs Ahmed Toufiq, "liberate the occupied cities," King Mohammed VI in attendance (POLITICO, 27 August 2026)
+* Justice Minister Abdellatif Ouahbi, call to discuss "the future of the two cities," cited "historic and geographical right," mid-August 2026
+* Domestic Spanish reaction: Feijóo (PP), Abascal (Vox) — "act of war"; Podemos — "hostile act of hybrid war"; Sumar — formal motion against Morocco's 2030 World Cup co-hosting status; Antonio Maíllo (IU) — names a "United States-Israel-Morocco alliance" objective to destabilise the Spanish government
+* Fabiani, second statement, 27 August 2026: Ceuta as signal to Washington and Israel; "low-hanging fruit" framing tied to unnamed recent US/Israeli remarks — considered and rejected as a documented American precursor; inference, not a citable document
+* Jorge Dezcallar, former Spanish ambassador to Morocco and former head of Spanish intelligence: "Rabat confuses concessions with weakness"
+* Historical anchor: Morocco's 1975 Green March, precedent for mass-mobilisation pressure forcing a Spanish territorial handover
+* Sánchez government's 2022 reversal of near-50-year neutrality on Western Sahara, backing Morocco's position — per Fabiani, appears to have emboldened rather than settled Moroccan territorial pressure
+
+## Errata
+
+* The 21 August entry and this one both state the July 31st crossing at 50,000–60,000. POLITICO's 27 August reporting describes "this summer's influx" as "more than 70,000 migrants" into Ceuta. This may reflect a cumulative summer total (July 31 plus the smaller 15 August wave) rather than a correction to the July 31 figure specifically, but the sourcing does not make that explicit. Treated here the same way the casualty count is already treated: unconverged, not resolved, flagged rather than silently reconciled.
