@@ -7,7 +7,7 @@ domain: Institutions
 excerpt: "A country, an institution, and a person all become someone else the moment they give up what they stand for to win a fight. A hosting collective in Italy just found that out the hard way. Europe is about to face the same choice over a single website — here's how not to make the same mistake twice."
 meta_description: "A country, an institution, and a person all become someone else the moment they give up what they stand for to win a fight. Europe now faces that choice."
 keywords: "war on terror, AUMF, emergency powers, Battle of Algiers, Autistici/Inventati, Specially Designated Global Terrorist, platform governance, TikTok ban, evergray wars"
-bluesky_thread: ""
+bluesky_thread: "at://did:plc:lazitworajfevap666me4pvn/app.bsky.feed.post/3muh4l6ugvs2v"
 prediction: false
 prediction_status: ""
 reading_time: 11
