@@ -4,7 +4,7 @@ slug: us-eu-evergray-legislative-trail
 verdict: ongoing
 standard: "Alliance integrity; honest characterisation of US-EU relationship"
 published: 2026-08-04
-updated: 2026-08-27
+updated: 2026-09-01
 prediction_logged: "4 August 2026"
 resolution_expected: "Open"
 ---
@@ -31,6 +31,10 @@ This sequence constitutes the [first documented case of American legislative pre
 
 That is the strongest analytical statement yet connecting American signalling to Moroccan escalation. It is still not a documented American precursor in the sense this entry requires. Fabiani's "recent remarks from U.S. and Israeli officials" are not named, dated, or sourced to a specific document the way Report 119-631 was — this is an expert's informed inference about signalling, not a committee report, a bill, or an official statement this audit can cite and date. Held to the same standard applied to the four rejected candidates on 21 August, this does not clear the bar. It also fails the stated next-checkpoint conditions on both counts: the target is still Spain, not a different member state, and the instrument is still the Ceuta/Melilla territorial question, not a new non-migration lever. What this review adds is a second, named, credentialed voice — Jorge Dezcallar, former Spanish ambassador to Morocco and former head of Spanish intelligence, warning that "Rabat confuses concessions with weakness" — strengthening the underlying pattern case without supplying the specific documented American action the prediction requires. The prediction remains open. The next meaningful checkpoint is unchanged: a member state other than Spain, or a named American document or statement precisely dated and tied to a non-migration instrument.
 
+**Third review — 1 September 2026: not resolved; the first candidate to meet both stated checkpoint conditions and fail the prediction anyway.** On 26 August the State Department, with the Treasury, designated Autistici/Inventati — an Italy-based non-profit hosting collective founded in 2001 — a Specially Designated Global Terrorist under Executive Order 13224. The stated basis mixes a serious material-support allegation (services knowingly provided to the PKK) with a much looser one (Antifa cells, Hamas and Hizballah communiqués, and 2026 rail-infrastructure sabotage in France, Italy, Germany, and the Netherlands, reached through what a platform's users posted). For the first time since 4 August this is a named American document, precisely dated, aimed at an entity inside a member state other than Spain, carried on a non-migration instrument. Both checkpoint conditions as stated on 21 August are met. The prediction still fails, and it fails on its own terms rather than on a technicality: the target is a hosting collective, not a member state government; the instrument is overt sanctions law applied directly by Washington, not a deniable third-party proxy; and nothing about the action is hybrid. Held to the standard that rejected the ICC sanctions on 21 August — "direct American action, but through no third-party instrument" — this is the same category of event, with one difference worth logging: an entity inside the Union is now the target, where the ICC is not. That narrows the distance between two tracks that both now reach inside EU jurisdiction, one through a proxy and one directly, without merging them.
+
+**The checkpoint, restated more precisely.** That an event can satisfy the 21 August checkpoint while failing the prediction is a fault in the checkpoint, not a finding, and it is corrected here against this audit's own interest — the tighter wording makes resolution harder, not easier. The next meaningful checkpoint is a documented American action, named and precisely dated, that precedes or enables pressure on an EU member state *government* through a deniable third-party instrument. A member state other than Spain and a non-migration lever remain necessary, but they are no longer sufficient on their own. See the analysis of the designation and of what answering a permanent threat with emergency instruments costs the answerer: [What You Won't Give Up Is What You Are](/essays/what-you-wont-give-up-is-what-you-are/).
+
 **The charge:** American legislative preparation preceded a third-party hybrid operation against EU territory, and American diplomatic cover followed it.
 
 ## Evidence
@@ -56,6 +60,8 @@ That is the strongest analytical statement yet connecting American signalling to
 * Jorge Dezcallar, former Spanish ambassador to Morocco and former head of Spanish intelligence: "Rabat confuses concessions with weakness"
 * Historical anchor: Morocco's 1975 Green March, precedent for mass-mobilisation pressure forcing a Spanish territorial handover
 * Sánchez government's 2022 reversal of near-50-year neutrality on Western Sahara, backing Morocco's position — per Fabiani, appears to have emboldened rather than settled Moroccan territorial pressure
+* Designation of Autistici/Inventati as a Specially Designated Global Terrorist, US Department of State with US Treasury, under EO 13224, 26 August 2026 — Italy-based hosting collective; cited grounds include material support to the PKK alongside Antifa, Hamas/Hizballah communiqués, and 2026 rail sabotage in France, Italy, Germany, and the Netherlands
+* Considered and rejected as prediction-resolving, 1 September 2026: the Autistici/Inventati designation — first candidate to meet both 21 August checkpoint conditions (member state other than Spain; named, dated, non-migration American document), but the target is not a member state government, the instrument is overt rather than deniable, and no third party is involved
 
 ## Errata
 
