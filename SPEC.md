@@ -46,6 +46,7 @@ cvpe.eu/                          — repository root
     ├── sitemap.xml
     ├── robots.txt
     ├── llms.txt                  — AIO discovery file
+    ├── <32-hex>.txt              — IndexNow ownership key
     ├── feed.xml                  — RSS feed
     ├── css/main.css
     ├── js/
@@ -124,7 +125,23 @@ the last 2 days, so it earns nothing here and risks the sitemap being rejected.
 
 RSS 2.0 with atom:link self and dc:creator; one `<item>` per essay (title, permalink guid, RFC date, category = domain, description = excerpt).
 
-### 4.6 Per-page SEO targets
+### 4.6 IndexNow
+
+Push notification of changed URLs to the participating engines (Bing, Yandex,
+Seznam, Naver, Yep), complementing the passive `sitemap.xml`. Ownership is
+proved by a public key file at the site root, `<key>.txt`, containing exactly
+its own filename stem and nothing else — no account, no secret. Submission is
+a single JSON POST (`host`, `key`, `keyLocation`, `urlList`; 10,000 URLs max)
+sent by `tools/indexnow/submit.py`, which discovers the key by globbing so key
+rotation needs no code change.
+
+Runs **after** deploy, never before: the engines verify the key and crawl the
+submitted URLs by fetching the live site, so URLs submitted ahead of the deploy
+are wasted. Default endpoint is the protocol's neutral shared endpoint;
+`--endpoint https://search.seznam.cz/indexnow` routes the first hop through EU
+infrastructure and shares submissions identically.
+
+### 4.7 Per-page SEO targets
 
 | Page | Target query | Title tag pattern |
 |---|---|---|
