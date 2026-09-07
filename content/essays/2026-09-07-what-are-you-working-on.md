@@ -6,7 +6,7 @@ modified: 2026-09-07
 domain: Civic Identity
 excerpt: "Europe knows what it is afraid of. It has forgotten how to say what it is for. This is an attempt at the second thing."
 keywords: "civic identity, European vision, contribution, recognition, public service design, social scoring, belonging as practice, NEET, capability"
-bluesky_thread: ""
+bluesky_thread: "at://did:plc:lazitworajfevap666me4pvn/app.bsky.feed.post/3muxdd3wul323"
 prediction: false
 prediction_status: ""
 reading_time: 9
