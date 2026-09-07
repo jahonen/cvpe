@@ -4,7 +4,7 @@ slug: index
 section: a-certain-vision
 ---
 
-Europe has been through a lot. Empire, war, collapse, and rebuilding. Most of what gets written about Europe today is about what's wrong, or what we should be against. That matters, but it isn't enough on its own.
+Europe has been through a lot. Empire, war, collapse, and rebuilding. Most of what gets written about Europe today is about what's wrong, or what we should be against. That matters, but [it isn't enough on its own](/essays/what-are-you-working-on/).
 
 This section says clearly what we actually want Europe to become next.
 

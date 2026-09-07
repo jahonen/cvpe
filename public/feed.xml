@@ -8,6 +8,15 @@
     <language>en-gb</language>
     <atom:link href="https://cvpe.eu/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>What Are You Working On?</title>
+      <link>https://cvpe.eu/essays/what-are-you-working-on</link>
+      <guid isPermaLink="true">https://cvpe.eu/essays/what-are-you-working-on</guid>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0000</pubDate>
+      <dc:creator>JP Ahonen</dc:creator>
+      <category>Civic Identity</category>
+      <description>Europe knows what it is afraid of. It has forgotten how to say what it is for. This is an attempt at the second thing.</description>
+    </item>
+    <item>
       <title>What You Won't Give Up Is What You Are</title>
       <link>https://cvpe.eu/essays/what-you-wont-give-up-is-what-you-are</link>
       <guid isPermaLink="true">https://cvpe.eu/essays/what-you-wont-give-up-is-what-you-are</guid>
